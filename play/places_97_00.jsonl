@@ -993,3 +993,6 @@
 {"n":993,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, west escape. arc left open. 6 steps. The awning stays for the hit."}
 {"n":994,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the awning at the Lot. Nobody past the west escape. We hit in 7 steps. Arc on the left lane, open."}
 {"n":995,"kind":"place","name":"the Lot west escape","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"the Lot west escape. Bess keeps the awning for the hit. 8 steps, arc on the left lane, open."}
+{"n":996,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, west escape. arc left open. 2 steps. The awning stays for the hit."}
+{"n":997,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the awning at Stockyard fence. Nobody past the west escape. We hit in 3 steps. Arc on the left lane, open."}
+{"n":998,"kind":"place","name":"Stockyard fence west escape","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Stockyard fence west escape. Matt keeps the awning for the hit. 4 steps, arc on the left lane, open."}
