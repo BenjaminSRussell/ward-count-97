@@ -119,3 +119,6 @@
 {"n":119,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the barrel at South stair. Nobody past the west curb. We start in 6 steps. Weave on the left lane, open."}
 {"n":120,"kind":"place","name":"South stair west curb","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"South stair west curb. Ivo keeps the barrel for the start. 7 steps, weave on the left lane, open."}
 {"n":121,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, west curb. weave left open. 8 steps. The barrel stays for the start."}
+{"n":122,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the barrel at South stair. Nobody past the west curb. We start in 2 steps. Weave on the left lane, open."}
+{"n":123,"kind":"place","name":"South stair west curb","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"South stair west curb. Bess keeps the barrel for the start. 3 steps, weave on the left lane, open."}
+{"n":124,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, west curb. weave left open. 4 steps. The barrel stays for the start."}
