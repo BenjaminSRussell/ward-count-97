@@ -218,3 +218,6 @@
 {"n":218,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the crate at Mast yard. Nobody past the east escape. We hit in 6 steps. Arc on the left lane, open."}
 {"n":219,"kind":"place","name":"Mast yard east escape","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Mast yard east escape. Bess keeps the crate for the hit. 7 steps, arc on the left lane, open."}
 {"n":220,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, east escape. arc left open. 8 steps. The crate stays for the hit."}
+{"n":221,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the crate at Last Light. Nobody past the east escape. We hit in 2 steps. Arc on the left lane, open."}
+{"n":222,"kind":"place","name":"Last Light east escape","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Last Light east escape. Matt keeps the crate for the hit. 3 steps, arc on the left lane, open."}
+{"n":223,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, east escape. arc left open. 4 steps. The crate stays for the hit."}
