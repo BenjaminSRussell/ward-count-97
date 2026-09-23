@@ -307,3 +307,6 @@
 {"n":307,"kind":"place","name":"Ward gate west escape","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Ward gate west escape. Bess keeps the badge door for the hit. 5 steps, arc on the left lane, open."}
 {"n":308,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, west escape. arc left open. 6 steps. The badge door stays for the hit."}
 {"n":309,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the badge door at Kessler alley. Nobody past the west escape. We hit in 7 steps. Arc on the left lane, open."}
+{"n":310,"kind":"place","name":"Kessler alley west escape","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Kessler alley west escape. Matt keeps the badge door for the hit. 8 steps, arc on the left lane, open."}
+{"n":311,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Kessler alley, west escape. arc left open. 2 steps. The badge door stays for the hit."}
+{"n":312,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the badge door at Kessler alley. Nobody past the west escape. We hit in 3 steps. Arc on the left lane, open."}
