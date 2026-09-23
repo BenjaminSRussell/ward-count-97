@@ -386,3 +386,6 @@
 {"n":386,"kind":"place","name":"Mast yard east escape","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Mast yard east escape. Matt keeps the badge door for the hit. 5 steps, arc on the left lane, open."}
 {"n":387,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mast yard, east escape. arc left open. 6 steps. The badge door stays for the hit."}
 {"n":388,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the badge door at Mast yard. Nobody past the east escape. We hit in 7 steps. Arc on the left lane, open."}
+{"n":389,"kind":"place","name":"Mast yard east escape","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Mast yard east escape. Nia keeps the badge door for the hit. 8 steps, arc on the left lane, open."}
+{"n":390,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mast yard, east escape. arc left open. 2 steps. The badge door stays for the hit."}
+{"n":391,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the badge door at Mast yard. Nobody past the east escape. We hit in 3 steps. Arc on the left lane, open."}
