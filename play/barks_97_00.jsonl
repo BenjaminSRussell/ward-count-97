@@ -356,3 +356,6 @@
 {"n":356,"kind":"place","name":"the Underpass west escape","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"the Underpass west escape. Ivo keeps the lamp for the hit. 6 steps, arc on the left lane, open."}
 {"n":357,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, west escape. arc left open. 7 steps. The lamp stays for the hit."}
 {"n":358,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the lamp at the Underpass. Nobody past the west escape. We hit in 8 steps. Arc on the left lane, open."}
+{"n":359,"kind":"place","name":"the Underpass west escape","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"the Underpass west escape. Bess keeps the lamp for the hit. 2 steps, arc on the left lane, open."}
+{"n":360,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Underpass, west escape. arc left open. 3 steps. The lamp stays for the hit."}
+{"n":361,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the lamp at Mast yard. Nobody past the west escape. We hit in 4 steps. Arc on the left lane, open."}
