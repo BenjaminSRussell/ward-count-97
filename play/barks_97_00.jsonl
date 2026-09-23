@@ -860,3 +860,6 @@
 {"n":860,"kind":"place","name":"the Underpass west escape","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"the Underpass west escape. Ivo keeps the shutter for the hit. 6 steps, arc on the left lane, open."}
 {"n":861,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, west escape. arc left open. 7 steps. The shutter stays for the hit."}
 {"n":862,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the shutter at the Underpass. Nobody past the west escape. We hit in 8 steps. Arc on the left lane, open."}
+{"n":863,"kind":"place","name":"the Underpass west escape","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"the Underpass west escape. Bess keeps the shutter for the hit. 2 steps, arc on the left lane, open."}
+{"n":864,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Underpass, west escape. arc left open. 3 steps. The shutter stays for the hit."}
+{"n":865,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the shutter at Mast yard. Nobody past the west escape. We hit in 4 steps. Arc on the left lane, open."}
