@@ -819,3 +819,6 @@
 {"n":819,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Lot, west escape. arc left open. 7 steps. The shutter stays for the hit."}
 {"n":820,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the shutter at the Lot. Nobody past the west escape. We hit in 8 steps. Arc on the left lane, open."}
 {"n":821,"kind":"place","name":"the Lot west escape","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"the Lot west escape. Nia keeps the shutter for the hit. 2 steps, arc on the left lane, open."}
+{"n":822,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Lot, west escape. arc left open. 3 steps. The shutter stays for the hit."}
+{"n":823,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the shutter at the Lot. Nobody past the west escape. We hit in 4 steps. Arc on the left lane, open."}
+{"n":824,"kind":"place","name":"the Lot west escape","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"the Lot west escape. Ivo keeps the shutter for the hit. 5 steps, arc on the left lane, open."}
