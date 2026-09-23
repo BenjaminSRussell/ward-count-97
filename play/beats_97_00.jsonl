@@ -706,3 +706,6 @@
 {"n":706,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the rope at Mast yard. Nobody past the west escape. We hit in 6 steps. Arc on the left lane, open."}
 {"n":707,"kind":"place","name":"Mast yard west escape","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Mast yard west escape. Bess keeps the rope for the hit. 7 steps, arc on the left lane, open."}
 {"n":708,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, west escape. arc left open. 8 steps. The rope stays for the hit."}
+{"n":709,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the rope at Last Light. Nobody past the west escape. We hit in 2 steps. Arc on the left lane, open."}
+{"n":710,"kind":"place","name":"Last Light west escape","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Last Light west escape. Matt keeps the rope for the hit. 3 steps, arc on the left lane, open."}
+{"n":711,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, west escape. arc left open. 4 steps. The rope stays for the hit."}
