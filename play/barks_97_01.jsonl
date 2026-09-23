@@ -22,3 +22,6 @@
 {"n":22,"kind":"place","name":"the Underpass west escape","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"the Underpass west escape. Matt keeps the awning for the hit. 7 steps, arc on the left lane, open."}
 {"n":23,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, west escape. arc left open. 8 steps. The awning stays for the hit."}
 {"n":24,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the awning at the Underpass. Nobody past the west escape. We hit in 2 steps. Arc on the left lane, open."}
+{"n":25,"kind":"place","name":"the Underpass west escape","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"the Underpass west escape. Nia keeps the awning for the hit. 3 steps, arc on the left lane, open."}
+{"n":26,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Underpass, west escape. arc left open. 4 steps. The awning stays for the hit."}
+{"n":27,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the awning at the Underpass. Nobody past the west escape. We hit in 5 steps. Arc on the left lane, open."}
