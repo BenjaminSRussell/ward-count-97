@@ -848,3 +848,6 @@
 {"n":848,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, north escape. arc left open. 4 steps. The shutter stays for the hit."}
 {"n":849,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the shutter at the Lot. Nobody past the north escape. We hit in 5 steps. Arc on the left lane, open."}
 {"n":850,"kind":"place","name":"the Lot north escape","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"the Lot north escape. Matt keeps the shutter for the hit. 6 steps, arc on the left lane, open."}
+{"n":851,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Lot, north escape. arc left open. 7 steps. The shutter stays for the hit."}
+{"n":852,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the shutter at the Lot. Nobody past the north escape. We hit in 8 steps. Arc on the left lane, open."}
+{"n":853,"kind":"place","name":"the Lot north escape","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"the Lot north escape. Nia keeps the shutter for the hit. 2 steps, arc on the left lane, open."}
