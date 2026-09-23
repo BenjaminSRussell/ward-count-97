@@ -355,3 +355,6 @@
 {"n":355,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the lamp at Kessler alley. Nobody past the south escape. We hit in 6 steps. Arc on the left lane, open."}
 {"n":356,"kind":"place","name":"Kessler alley south escape","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Kessler alley south escape. Ivo keeps the lamp for the hit. 7 steps, arc on the left lane, open."}
 {"n":357,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, south escape. arc left open. 8 steps. The lamp stays for the hit."}
+{"n":358,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the lamp at Kessler alley. Nobody past the south escape. We hit in 2 steps. Arc on the left lane, open."}
+{"n":359,"kind":"place","name":"Kessler alley south escape","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Kessler alley south escape. Bess keeps the lamp for the hit. 3 steps, arc on the left lane, open."}
+{"n":360,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, south escape. arc left open. 4 steps. The lamp stays for the hit."}
