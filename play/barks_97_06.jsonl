@@ -140,3 +140,6 @@
 {"n":140,"kind":"place","name":"Switchyard south escape","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Switchyard south escape. Ivo keeps the barrel for the hit. 8 steps, arc on the left lane, open."}
 {"n":141,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, south escape. arc left open. 2 steps. The barrel stays for the hit."}
 {"n":142,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the barrel at Switchyard. Nobody past the south escape. We hit in 3 steps. Arc on the left lane, open."}
+{"n":143,"kind":"place","name":"Switchyard south escape","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Switchyard south escape. Bess keeps the barrel for the hit. 4 steps, arc on the left lane, open."}
+{"n":144,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, south escape. arc left open. 5 steps. The barrel stays for the hit."}
+{"n":145,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the barrel at Drydock. Nobody past the south escape. We hit in 6 steps. Arc on the left lane, open."}
