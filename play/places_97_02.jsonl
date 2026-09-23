@@ -130,3 +130,6 @@
 {"n":130,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, east escape. arc left open. 2 steps. The barrel stays for the hit."}
 {"n":131,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the barrel at High line. Nobody past the east escape. We hit in 3 steps. Arc on the left lane, open."}
 {"n":132,"kind":"place","name":"High line east escape","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"High line east escape. Ivo keeps the barrel for the hit. 4 steps, arc on the left lane, open."}
+{"n":133,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, east escape. arc left open. 5 steps. The barrel stays for the hit."}
+{"n":134,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the barrel at High line. Nobody past the east escape. We hit in 6 steps. Arc on the left lane, open."}
+{"n":135,"kind":"place","name":"High line east escape","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"High line east escape. Bess keeps the barrel for the hit. 7 steps, arc on the left lane, open."}
