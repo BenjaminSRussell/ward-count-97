@@ -137,3 +137,6 @@
 {"n":137,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Ward gate, west escape. arc left open. 3 steps. The drum stays for the hit."}
 {"n":138,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the drum at Ward gate. Nobody past the west escape. We hit in 4 steps. Arc on the left lane, open."}
 {"n":139,"kind":"place","name":"Ward gate west escape","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Ward gate west escape. Bess keeps the drum for the hit. 5 steps, arc on the left lane, open."}
+{"n":140,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, west escape. arc left open. 6 steps. The drum stays for the hit."}
+{"n":141,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the drum at Kessler alley. Nobody past the west escape. We hit in 7 steps. Arc on the left lane, open."}
+{"n":142,"kind":"place","name":"Kessler alley west escape","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Kessler alley west escape. Matt keeps the drum for the hit. 8 steps, arc on the left lane, open."}
