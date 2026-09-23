@@ -18,3 +18,6 @@
 {"n":18,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the awning at Mall court. Nobody past the west escape. We hit in 3 steps. Arc on the left lane, open."}
 {"n":19,"kind":"place","name":"Mall court west escape","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Mall court west escape. Bess keeps the awning for the hit. 4 steps, arc on the left lane, open."}
 {"n":20,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, west escape. arc left open. 5 steps. The awning stays for the hit."}
+{"n":21,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the awning at the Underpass. Nobody past the west escape. We hit in 6 steps. Arc on the left lane, open."}
+{"n":22,"kind":"place","name":"the Underpass west escape","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"the Underpass west escape. Matt keeps the awning for the hit. 7 steps, arc on the left lane, open."}
+{"n":23,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, west escape. arc left open. 8 steps. The awning stays for the hit."}
