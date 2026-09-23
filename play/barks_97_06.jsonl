@@ -944,3 +944,6 @@
 {"n":944,"kind":"place","name":"South stair south escape","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"South stair south escape. Ivo keeps the shutter for the hit. 7 steps, arc on the left lane, open."}
 {"n":945,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, south escape. arc left open. 8 steps. The shutter stays for the hit."}
 {"n":946,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the shutter at South stair. Nobody past the south escape. We hit in 2 steps. Arc on the left lane, open."}
+{"n":947,"kind":"place","name":"South stair south escape","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"South stair south escape. Bess keeps the shutter for the hit. 3 steps, arc on the left lane, open."}
+{"n":948,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, south escape. arc left open. 4 steps. The shutter stays for the hit."}
+{"n":949,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the shutter at the pier. Nobody past the south escape. We hit in 5 steps. Arc on the left lane, open."}
