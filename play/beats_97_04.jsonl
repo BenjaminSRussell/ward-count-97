@@ -18,3 +18,6 @@
 {"n":18,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the barrel at the Lot. Nobody past the north escape. We hit in 7 steps. Arc on the left lane, open."}
 {"n":19,"kind":"place","name":"the Lot north escape","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"the Lot north escape. Bess keeps the barrel for the hit. 8 steps, arc on the left lane, open."}
 {"n":20,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, north escape. arc left open. 2 steps. The barrel stays for the hit."}
+{"n":21,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the barrel at Stockyard fence. Nobody past the north escape. We hit in 3 steps. Arc on the left lane, open."}
+{"n":22,"kind":"place","name":"Stockyard fence north escape","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Stockyard fence north escape. Matt keeps the barrel for the hit. 4 steps, arc on the left lane, open."}
+{"n":23,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Stockyard fence, north escape. arc left open. 5 steps. The barrel stays for the hit."}
