@@ -6,3 +6,6 @@
 {"n":6,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the shutter at High line. Nobody past the south escape. We hit in 6 steps. Arc on the left lane, open."}
 {"n":7,"kind":"place","name":"High line south escape","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"High line south escape. Bess keeps the shutter for the hit. 7 steps, arc on the left lane, open."}
 {"n":8,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, south escape. arc left open. 8 steps. The shutter stays for the hit."}
+{"n":9,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the awning at Ward gate. Nobody past the south escape. We hit in 2 steps. Arc on the left lane, open."}
+{"n":10,"kind":"place","name":"Ward gate south escape","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Ward gate south escape. Matt keeps the awning for the hit. 3 steps, arc on the left lane, open."}
+{"n":11,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, south escape. arc left open. 4 steps. The awning stays for the hit."}
