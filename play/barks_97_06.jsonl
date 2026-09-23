@@ -821,3 +821,6 @@
 {"n":821,"kind":"place","name":"Drydock south escape","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"Drydock south escape. Nia keeps the rope for the hit. 3 steps, arc on the left lane, open."}
 {"n":822,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, south escape. arc left open. 4 steps. The rope stays for the hit."}
 {"n":823,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the rope at Drydock. Nobody past the south escape. We hit in 5 steps. Arc on the left lane, open."}
+{"n":824,"kind":"place","name":"Drydock south escape","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Drydock south escape. Ivo keeps the rope for the hit. 6 steps, arc on the left lane, open."}
+{"n":825,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, south escape. arc left open. 7 steps. The rope stays for the hit."}
+{"n":826,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the rope at Drydock. Nobody past the south escape. We hit in 8 steps. Arc on the left lane, open."}
