@@ -47,3 +47,6 @@
 {"n":47,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, west escape. arc left open. 4 steps. The awning stays for the hit."}
 {"n":48,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the awning at Last Light. Nobody past the west escape. We hit in 5 steps. Arc on the left lane, open."}
 {"n":49,"kind":"place","name":"Last Light west escape","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Last Light west escape. Nia keeps the awning for the hit. 6 steps, arc on the left lane, open."}
+{"n":50,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Last Light, west escape. arc left open. 7 steps. The awning stays for the hit."}
+{"n":51,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the awning at Last Light. Nobody past the west escape. We hit in 8 steps. Arc on the left lane, open."}
+{"n":52,"kind":"place","name":"Last Light west escape","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Last Light west escape. Ivo keeps the awning for the hit. 2 steps, arc on the left lane, open."}
