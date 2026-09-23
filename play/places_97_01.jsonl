@@ -212,3 +212,6 @@
 {"n":212,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, west escape. arc left open. 8 steps. The drum stays for the hit."}
 {"n":213,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the drum at Last Light. Nobody past the west escape. We hit in 2 steps. Arc on the left lane, open."}
 {"n":214,"kind":"place","name":"Last Light west escape","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Last Light west escape. Matt keeps the drum for the hit. 3 steps, arc on the left lane, open."}
+{"n":215,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, west escape. arc left open. 4 steps. The drum stays for the hit."}
+{"n":216,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the drum at Last Light. Nobody past the west escape. We hit in 5 steps. Arc on the left lane, open."}
+{"n":217,"kind":"place","name":"Last Light west escape","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Last Light west escape. Nia keeps the drum for the hit. 6 steps, arc on the left lane, open."}
