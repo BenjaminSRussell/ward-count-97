@@ -869,3 +869,6 @@
 {"n":869,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the shutter at the Underpass. Nobody past the east escape. We hit in 6 steps. Arc on the left lane, open."}
 {"n":870,"kind":"place","name":"the Underpass east escape","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"the Underpass east escape. Matt keeps the shutter for the hit. 7 steps, arc on the left lane, open."}
 {"n":871,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, east escape. arc left open. 8 steps. The shutter stays for the hit."}
+{"n":872,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the shutter at the Underpass. Nobody past the east escape. We hit in 2 steps. Arc on the left lane, open."}
+{"n":873,"kind":"place","name":"the Underpass east escape","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"the Underpass east escape. Nia keeps the shutter for the hit. 3 steps, arc on the left lane, open."}
+{"n":874,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Underpass, east escape. arc left open. 4 steps. The shutter stays for the hit."}
