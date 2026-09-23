@@ -889,3 +889,6 @@
 {"n":889,"kind":"place","name":"the Underpass north escape","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"the Underpass north escape. Nia keeps the shutter for the hit. 3 steps, arc on the left lane, open."}
 {"n":890,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Underpass, north escape. arc left open. 4 steps. The shutter stays for the hit."}
 {"n":891,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the shutter at the Underpass. Nobody past the north escape. We hit in 5 steps. Arc on the left lane, open."}
+{"n":892,"kind":"place","name":"the Underpass north escape","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"the Underpass north escape. Ivo keeps the shutter for the hit. 6 steps, arc on the left lane, open."}
+{"n":893,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, north escape. arc left open. 7 steps. The shutter stays for the hit."}
+{"n":894,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the shutter at the Underpass. Nobody past the north escape. We hit in 8 steps. Arc on the left lane, open."}
