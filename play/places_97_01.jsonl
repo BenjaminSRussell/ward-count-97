@@ -755,3 +755,6 @@
 {"n":755,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Clinic roof, east escape. arc left open. 5 steps. The plywood stays for the hit."}
 {"n":756,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the plywood at Clinic roof. Nobody past the east escape. We hit in 6 steps. Arc on the left lane, open."}
 {"n":757,"kind":"place","name":"Clinic roof east escape","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Clinic roof east escape. Nia keeps the plywood for the hit. 7 steps, arc on the left lane, open."}
+{"n":758,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Clinic roof, east escape. arc left open. 8 steps. The plywood stays for the hit."}
+{"n":759,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the plywood at Clinic roof. Nobody past the east escape. We hit in 2 steps. Arc on the left lane, open."}
+{"n":760,"kind":"place","name":"Clinic roof east escape","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Clinic roof east escape. Ivo keeps the plywood for the hit. 3 steps, arc on the left lane, open."}
