@@ -873,3 +873,6 @@
 {"n":873,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the hydrant at Mast yard. Nobody past the east escape. We hit in 4 steps. Arc on the left lane, open."}
 {"n":874,"kind":"place","name":"Mast yard east escape","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Mast yard east escape. Matt keeps the hydrant for the hit. 5 steps, arc on the left lane, open."}
 {"n":875,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mast yard, east escape. arc left open. 6 steps. The hydrant stays for the hit."}
+{"n":876,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the hydrant at Mast yard. Nobody past the east escape. We hit in 7 steps. Arc on the left lane, open."}
+{"n":877,"kind":"place","name":"Mast yard east escape","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Mast yard east escape. Nia keeps the hydrant for the hit. 8 steps, arc on the left lane, open."}
+{"n":878,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mast yard, east escape. arc left open. 2 steps. The hydrant stays for the hit."}
