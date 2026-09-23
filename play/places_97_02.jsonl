@@ -154,3 +154,6 @@
 {"n":154,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, east escape. arc left open. 5 steps. The crate stays for the hit."}
 {"n":155,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the crate at Kessler alley. Nobody past the east escape. We hit in 6 steps. Arc on the left lane, open."}
 {"n":156,"kind":"place","name":"Kessler alley east escape","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Kessler alley east escape. Ivo keeps the crate for the hit. 7 steps, arc on the left lane, open."}
+{"n":157,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, east escape. arc left open. 8 steps. The crate stays for the hit."}
+{"n":158,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the crate at Kessler alley. Nobody past the east escape. We hit in 2 steps. Arc on the left lane, open."}
+{"n":159,"kind":"place","name":"Kessler alley east escape","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Kessler alley east escape. Bess keeps the crate for the hit. 3 steps, arc on the left lane, open."}
