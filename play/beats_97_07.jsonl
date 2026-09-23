@@ -327,3 +327,6 @@
 {"n":327,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the drum at Drydock. Nobody past the south escape. We hit in 5 steps. Arc on the left lane, open."}
 {"n":328,"kind":"place","name":"Drydock south escape","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Drydock south escape. Ivo keeps the drum for the hit. 6 steps, arc on the left lane, open."}
 {"n":329,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, south escape. arc left open. 7 steps. The drum stays for the hit."}
+{"n":330,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the drum at Drydock. Nobody past the south escape. We hit in 8 steps. Arc on the left lane, open."}
+{"n":331,"kind":"place","name":"Drydock south escape","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Drydock south escape. Bess keeps the drum for the hit. 2 steps, arc on the left lane, open."}
+{"n":332,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, south escape. arc left open. 3 steps. The drum stays for the hit."}
