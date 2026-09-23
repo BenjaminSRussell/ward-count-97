@@ -161,3 +161,6 @@
 {"n":161,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the drum at Ward gate. Nobody past the north escape. We hit in 2 steps. Arc on the left lane, open."}
 {"n":162,"kind":"place","name":"Ward gate north escape","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Ward gate north escape. Matt keeps the drum for the hit. 3 steps, arc on the left lane, open."}
 {"n":163,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, north escape. arc left open. 4 steps. The drum stays for the hit."}
+{"n":164,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the drum at Ward gate. Nobody past the north escape. We hit in 5 steps. Arc on the left lane, open."}
+{"n":165,"kind":"place","name":"Ward gate north escape","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Ward gate north escape. Nia keeps the drum for the hit. 6 steps, arc on the left lane, open."}
+{"n":166,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Ward gate, north escape. arc left open. 7 steps. The drum stays for the hit."}
