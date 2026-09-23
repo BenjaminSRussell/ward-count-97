@@ -899,3 +899,6 @@
 {"n":899,"kind":"place","name":"Mall court south escape","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Mall court south escape. Bess keeps the shutter for the hit. 4 steps, arc on the left lane, open."}
 {"n":900,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, south escape. arc left open. 5 steps. The shutter stays for the hit."}
 {"n":901,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the shutter at the Underpass. Nobody past the south escape. We hit in 6 steps. Arc on the left lane, open."}
+{"n":902,"kind":"place","name":"the Underpass south escape","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"the Underpass south escape. Matt keeps the shutter for the hit. 7 steps, arc on the left lane, open."}
+{"n":903,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, south escape. arc left open. 8 steps. The shutter stays for the hit."}
+{"n":904,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the shutter at the Underpass. Nobody past the south escape. We hit in 2 steps. Arc on the left lane, open."}
