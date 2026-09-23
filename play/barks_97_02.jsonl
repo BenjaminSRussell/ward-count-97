@@ -195,3 +195,6 @@
 {"n":195,"kind":"place","name":"Mall court east escape","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Mall court east escape. Bess keeps the crate for the hit. 4 steps, arc on the left lane, open."}
 {"n":196,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, east escape. arc left open. 5 steps. The crate stays for the hit."}
 {"n":197,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the crate at the Underpass. Nobody past the east escape. We hit in 6 steps. Arc on the left lane, open."}
+{"n":198,"kind":"place","name":"the Underpass east escape","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"the Underpass east escape. Matt keeps the crate for the hit. 7 steps, arc on the left lane, open."}
+{"n":199,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, east escape. arc left open. 8 steps. The crate stays for the hit."}
+{"n":200,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the crate at the Underpass. Nobody past the east escape. We hit in 2 steps. Arc on the left lane, open."}
