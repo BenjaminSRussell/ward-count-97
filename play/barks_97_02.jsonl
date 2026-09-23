@@ -447,3 +447,6 @@
 {"n":447,"kind":"place","name":"Switchyard east escape","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Switchyard east escape. Bess keeps the lamp for the hit. 4 steps, arc on the left lane, open."}
 {"n":448,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, east escape. arc left open. 5 steps. The lamp stays for the hit."}
 {"n":449,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the lamp at Drydock. Nobody past the east escape. We hit in 6 steps. Arc on the left lane, open."}
+{"n":450,"kind":"place","name":"Drydock east escape","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Drydock east escape. Matt keeps the lamp for the hit. 7 steps, arc on the left lane, open."}
+{"n":451,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, east escape. arc left open. 8 steps. The lamp stays for the hit."}
+{"n":452,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the lamp at Drydock. Nobody past the east escape. We hit in 2 steps. Arc on the left lane, open."}
