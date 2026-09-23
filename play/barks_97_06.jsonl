@@ -524,3 +524,6 @@
 {"n":524,"kind":"place","name":"Kessler alley south escape","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Kessler alley south escape. Ivo keeps the rebar for the hit. 7 steps, arc on the left lane, open."}
 {"n":525,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, south escape. arc left open. 8 steps. The rebar stays for the hit."}
 {"n":526,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the rebar at Kessler alley. Nobody past the south escape. We hit in 2 steps. Arc on the left lane, open."}
+{"n":527,"kind":"place","name":"Kessler alley south escape","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Kessler alley south escape. Bess keeps the rebar for the hit. 3 steps, arc on the left lane, open."}
+{"n":528,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, south escape. arc left open. 4 steps. The rebar stays for the hit."}
+{"n":529,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the rebar at the Lot. Nobody past the south escape. We hit in 5 steps. Arc on the left lane, open."}
