@@ -984,3 +984,6 @@
 {"n":984,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, north escape. arc left open. 8 steps. The hydrant stays for the hit."}
 {"n":985,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the barrel at Ward gate. Nobody past the north escape. We hit in 2 steps. Arc on the left lane, open."}
 {"n":986,"kind":"place","name":"Ward gate north escape","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Ward gate north escape. Matt keeps the barrel for the hit. 3 steps, arc on the left lane, open."}
+{"n":987,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, north escape. arc left open. 4 steps. The barrel stays for the hit."}
+{"n":988,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the barrel at Ward gate. Nobody past the north escape. We hit in 5 steps. Arc on the left lane, open."}
+{"n":989,"kind":"place","name":"Ward gate north escape","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Ward gate north escape. Nia keeps the barrel for the hit. 6 steps, arc on the left lane, open."}
