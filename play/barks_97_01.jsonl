@@ -682,3 +682,6 @@
 {"n":682,"kind":"place","name":"Mall court east escape","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Mall court east escape. Matt keeps the plywood for the hit. 2 steps, arc on the left lane, open."}
 {"n":683,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mall court, east escape. arc left open. 3 steps. The plywood stays for the hit."}
 {"n":684,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the plywood at Mall court. Nobody past the east escape. We hit in 4 steps. Arc on the left lane, open."}
+{"n":685,"kind":"place","name":"Mall court east escape","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Mall court east escape. Nia keeps the plywood for the hit. 5 steps, arc on the left lane, open."}
+{"n":686,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mall court, east escape. arc left open. 6 steps. The plywood stays for the hit."}
+{"n":687,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the plywood at Mall court. Nobody past the east escape. We hit in 7 steps. Arc on the left lane, open."}
