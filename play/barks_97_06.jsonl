@@ -953,3 +953,6 @@
 {"n":953,"kind":"place","name":"the pier south escape","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"the pier south escape. Nia keeps the shutter for the hit. 2 steps, arc on the left lane, open."}
 {"n":954,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the pier, south escape. arc left open. 3 steps. The shutter stays for the hit."}
 {"n":955,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the shutter at the pier. Nobody past the south escape. We hit in 4 steps. Arc on the left lane, open."}
+{"n":956,"kind":"place","name":"the pier south escape","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"the pier south escape. Ivo keeps the shutter for the hit. 5 steps, arc on the left lane, open."}
+{"n":957,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, south escape. arc left open. 6 steps. The shutter stays for the hit."}
+{"n":958,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the shutter at the pier. Nobody past the south escape. We hit in 7 steps. Arc on the left lane, open."}
