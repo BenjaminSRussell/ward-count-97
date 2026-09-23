@@ -295,3 +295,6 @@
 {"n":295,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at High line, east escape. arc left open. 6 steps. The crate stays for the hit."}
 {"n":296,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the crate at High line. Nobody past the east escape. We hit in 7 steps. Arc on the left lane, open."}
 {"n":297,"kind":"place","name":"High line east escape","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"High line east escape. Nia keeps the crate for the hit. 8 steps, arc on the left lane, open."}
+{"n":298,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, east escape. arc left open. 2 steps. The crate stays for the hit."}
+{"n":299,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the crate at High line. Nobody past the east escape. We hit in 3 steps. Arc on the left lane, open."}
+{"n":300,"kind":"place","name":"High line east escape","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"High line east escape. Ivo keeps the crate for the hit. 4 steps, arc on the left lane, open."}
