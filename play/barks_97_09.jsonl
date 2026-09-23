@@ -449,3 +449,6 @@
 {"n":449,"kind":"place","name":"Last Light west curb","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Last Light west curb. Nia keeps the badge door for the start. 6 steps, weave on the left lane, open."}
 {"n":450,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Last Light, west curb. weave left open. 7 steps. The badge door stays for the start."}
 {"n":451,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the badge door at Last Light. Nobody past the west curb. We start in 8 steps. Weave on the left lane, open."}
+{"n":452,"kind":"place","name":"Last Light west curb","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Last Light west curb. Ivo keeps the badge door for the start. 2 steps, weave on the left lane, open."}
+{"n":453,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Last Light, west curb. weave left open. 3 steps. The badge door stays for the start."}
+{"n":454,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the badge door at Last Light. Nobody past the west curb. We start in 4 steps. Weave on the left lane, open."}
