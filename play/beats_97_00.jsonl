@@ -286,3 +286,6 @@
 {"n":286,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the crate at High line. Nobody past the west escape. We hit in 6 steps. Arc on the left lane, open."}
 {"n":287,"kind":"place","name":"High line west escape","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"High line west escape. Bess keeps the crate for the hit. 7 steps, arc on the left lane, open."}
 {"n":288,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, west escape. arc left open. 8 steps. The crate stays for the hit."}
+{"n":289,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the lamp at Ward gate. Nobody past the west escape. We hit in 2 steps. Arc on the left lane, open."}
+{"n":290,"kind":"place","name":"Ward gate west escape","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Ward gate west escape. Matt keeps the lamp for the hit. 3 steps, arc on the left lane, open."}
+{"n":291,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, west escape. arc left open. 4 steps. The lamp stays for the hit."}
