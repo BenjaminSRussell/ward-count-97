@@ -561,3 +561,6 @@
 {"n":561,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, west escape. arc left open. 8 steps. The rebar stays for the hit."}
 {"n":562,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the rebar at South stair. Nobody past the west escape. We hit in 2 steps. Arc on the left lane, open."}
 {"n":563,"kind":"place","name":"South stair west escape","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"South stair west escape. Bess keeps the rebar for the hit. 3 steps, arc on the left lane, open."}
+{"n":564,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, west escape. arc left open. 4 steps. The rebar stays for the hit."}
+{"n":565,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the rebar at the pier. Nobody past the west escape. We hit in 5 steps. Arc on the left lane, open."}
+{"n":566,"kind":"place","name":"the pier west escape","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"the pier west escape. Matt keeps the rebar for the hit. 6 steps, arc on the left lane, open."}
