@@ -596,3 +596,6 @@
 {"n":596,"kind":"place","name":"Switchyard west escape","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Switchyard west escape. Ivo keeps the rebar for the hit. 8 steps, arc on the left lane, open."}
 {"n":597,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, west escape. arc left open. 2 steps. The rebar stays for the hit."}
 {"n":598,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the rebar at Switchyard. Nobody past the west escape. We hit in 3 steps. Arc on the left lane, open."}
+{"n":599,"kind":"place","name":"Switchyard west escape","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Switchyard west escape. Bess keeps the rebar for the hit. 4 steps, arc on the left lane, open."}
+{"n":600,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, west escape. arc left open. 5 steps. The rebar stays for the hit."}
+{"n":601,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the rebar at Drydock. Nobody past the west escape. We hit in 6 steps. Arc on the left lane, open."}
