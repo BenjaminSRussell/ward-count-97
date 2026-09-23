@@ -216,3 +216,6 @@
 {"n":216,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the crate at the Underpass. Nobody past the north escape. We hit in 2 steps. Arc on the left lane, open."}
 {"n":217,"kind":"place","name":"the Underpass north escape","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"the Underpass north escape. Nia keeps the crate for the hit. 3 steps, arc on the left lane, open."}
 {"n":218,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Underpass, north escape. arc left open. 4 steps. The crate stays for the hit."}
+{"n":219,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the crate at the Underpass. Nobody past the north escape. We hit in 5 steps. Arc on the left lane, open."}
+{"n":220,"kind":"place","name":"the Underpass north escape","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"the Underpass north escape. Ivo keeps the crate for the hit. 6 steps, arc on the left lane, open."}
+{"n":221,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, north escape. arc left open. 7 steps. The crate stays for the hit."}
