@@ -965,3 +965,6 @@
 {"n":965,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the hydrant at Switchyard. Nobody past the south escape. We hit in 8 steps. Arc on the left lane, open."}
 {"n":966,"kind":"place","name":"Switchyard south escape","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Switchyard south escape. Matt keeps the hydrant for the hit. 2 steps, arc on the left lane, open."}
 {"n":967,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Switchyard, south escape. arc left open. 3 steps. The hydrant stays for the hit."}
+{"n":968,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the hydrant at Switchyard. Nobody past the south escape. We hit in 4 steps. Arc on the left lane, open."}
+{"n":969,"kind":"place","name":"Switchyard south escape","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Switchyard south escape. Nia keeps the hydrant for the hit. 5 steps, arc on the left lane, open."}
+{"n":970,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, south escape. arc left open. 6 steps. The hydrant stays for the hit."}
