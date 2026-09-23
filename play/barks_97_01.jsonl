@@ -889,3 +889,6 @@
 {"n":889,"kind":"place","name":"Last Light east escape","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Last Light east escape. Nia keeps the hydrant for the hit. 6 steps, arc on the left lane, open."}
 {"n":890,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Last Light, east escape. arc left open. 7 steps. The hydrant stays for the hit."}
 {"n":891,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the hydrant at Last Light. Nobody past the east escape. We hit in 8 steps. Arc on the left lane, open."}
+{"n":892,"kind":"place","name":"Last Light east escape","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Last Light east escape. Ivo keeps the hydrant for the hit. 2 steps, arc on the left lane, open."}
+{"n":893,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Last Light, east escape. arc left open. 3 steps. The hydrant stays for the hit."}
+{"n":894,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the hydrant at Last Light. Nobody past the east escape. We hit in 4 steps. Arc on the left lane, open."}
