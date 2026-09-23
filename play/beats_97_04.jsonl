@@ -852,3 +852,6 @@
 {"n":852,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the shutter at the Lot. Nobody past the north escape. We hit in 8 steps. Arc on the left lane, open."}
 {"n":853,"kind":"place","name":"the Lot north escape","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"the Lot north escape. Nia keeps the shutter for the hit. 2 steps, arc on the left lane, open."}
 {"n":854,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Lot, north escape. arc left open. 3 steps. The shutter stays for the hit."}
+{"n":855,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the shutter at the Lot. Nobody past the north escape. We hit in 4 steps. Arc on the left lane, open."}
+{"n":856,"kind":"place","name":"the Lot north escape","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"the Lot north escape. Ivo keeps the shutter for the hit. 5 steps, arc on the left lane, open."}
+{"n":857,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, north escape. arc left open. 6 steps. The shutter stays for the hit."}
