@@ -311,3 +311,6 @@
 {"n":311,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Kessler alley, west escape. arc left open. 2 steps. The badge door stays for the hit."}
 {"n":312,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the badge door at Kessler alley. Nobody past the west escape. We hit in 3 steps. Arc on the left lane, open."}
 {"n":313,"kind":"place","name":"Kessler alley west escape","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Kessler alley west escape. Nia keeps the badge door for the hit. 4 steps, arc on the left lane, open."}
+{"n":314,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, west escape. arc left open. 5 steps. The badge door stays for the hit."}
+{"n":315,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the badge door at Kessler alley. Nobody past the west escape. We hit in 6 steps. Arc on the left lane, open."}
+{"n":316,"kind":"place","name":"Kessler alley west escape","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Kessler alley west escape. Ivo keeps the badge door for the hit. 7 steps, arc on the left lane, open."}
