@@ -89,3 +89,6 @@
 {"n":89,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, south escape. arc left open. 5 steps. The awning stays for the hit."}
 {"n":90,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the awning at Mast yard. Nobody past the south escape. We hit in 6 steps. Arc on the left lane, open."}
 {"n":91,"kind":"place","name":"Mast yard south escape","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Mast yard south escape. Bess keeps the awning for the hit. 7 steps, arc on the left lane, open."}
+{"n":92,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, south escape. arc left open. 8 steps. The awning stays for the hit."}
+{"n":93,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the awning at Last Light. Nobody past the south escape. We hit in 2 steps. Arc on the left lane, open."}
+{"n":94,"kind":"place","name":"Last Light south escape","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Last Light south escape. Matt keeps the awning for the hit. 3 steps, arc on the left lane, open."}
