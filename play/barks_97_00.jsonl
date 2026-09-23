@@ -620,3 +620,6 @@
 {"n":620,"kind":"place","name":"High line west escape","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"High line west escape. Ivo keeps the rebar for the hit. 4 steps, arc on the left lane, open."}
 {"n":621,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, west escape. arc left open. 5 steps. The rebar stays for the hit."}
 {"n":622,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the rebar at High line. Nobody past the west escape. We hit in 6 steps. Arc on the left lane, open."}
+{"n":623,"kind":"place","name":"High line west escape","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"High line west escape. Bess keeps the rebar for the hit. 7 steps, arc on the left lane, open."}
+{"n":624,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, west escape. arc left open. 8 steps. The rebar stays for the hit."}
+{"n":625,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the rope at Ward gate. Nobody past the west escape. We hit in 2 steps. Arc on the left lane, open."}
