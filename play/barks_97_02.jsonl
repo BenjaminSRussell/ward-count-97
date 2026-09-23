@@ -939,3 +939,6 @@
 {"n":939,"kind":"place","name":"Clinic roof east escape","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Clinic roof east escape. Bess keeps the shutter for the hit. 6 steps, arc on the left lane, open."}
 {"n":940,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Clinic roof, east escape. arc left open. 7 steps. The shutter stays for the hit."}
 {"n":941,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the shutter at Switchyard. Nobody past the east escape. We hit in 8 steps. Arc on the left lane, open."}
+{"n":942,"kind":"place","name":"Switchyard east escape","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Switchyard east escape. Matt keeps the shutter for the hit. 2 steps, arc on the left lane, open."}
+{"n":943,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Switchyard, east escape. arc left open. 3 steps. The shutter stays for the hit."}
+{"n":944,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the shutter at Switchyard. Nobody past the east escape. We hit in 4 steps. Arc on the left lane, open."}
