@@ -176,3 +176,6 @@
 {"n":176,"kind":"place","name":"Ward gate south escape","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Ward gate south escape. Ivo keeps the crate for the hit. 2 steps, arc on the left lane, open."}
 {"n":177,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Ward gate, south escape. arc left open. 3 steps. The crate stays for the hit."}
 {"n":178,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the crate at Ward gate. Nobody past the south escape. We hit in 4 steps. Arc on the left lane, open."}
+{"n":179,"kind":"place","name":"Ward gate south escape","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Ward gate south escape. Bess keeps the crate for the hit. 5 steps, arc on the left lane, open."}
+{"n":180,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, south escape. arc left open. 6 steps. The crate stays for the hit."}
+{"n":181,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the crate at Kessler alley. Nobody past the south escape. We hit in 7 steps. Arc on the left lane, open."}
