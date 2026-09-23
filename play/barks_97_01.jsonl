@@ -730,3 +730,6 @@
 {"n":730,"kind":"place","name":"South stair east escape","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"South stair east escape. Matt keeps the plywood for the hit. 8 steps, arc on the left lane, open."}
 {"n":731,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at South stair, east escape. arc left open. 2 steps. The plywood stays for the hit."}
 {"n":732,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the plywood at South stair. Nobody past the east escape. We hit in 3 steps. Arc on the left lane, open."}
+{"n":733,"kind":"place","name":"South stair east escape","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"South stair east escape. Nia keeps the plywood for the hit. 4 steps, arc on the left lane, open."}
+{"n":734,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at South stair, east escape. arc left open. 5 steps. The plywood stays for the hit."}
+{"n":735,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the plywood at South stair. Nobody past the east escape. We hit in 6 steps. Arc on the left lane, open."}
