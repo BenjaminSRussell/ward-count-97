@@ -373,3 +373,6 @@
 {"n":373,"kind":"place","name":"Mall court north escape","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Mall court north escape. Nia keeps the lamp for the hit. 5 steps, arc on the left lane, open."}
 {"n":374,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mall court, north escape. arc left open. 6 steps. The lamp stays for the hit."}
 {"n":375,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the lamp at Mall court. Nobody past the north escape. We hit in 7 steps. Arc on the left lane, open."}
+{"n":376,"kind":"place","name":"Mall court north escape","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Mall court north escape. Ivo keeps the lamp for the hit. 8 steps, arc on the left lane, open."}
+{"n":377,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mall court, north escape. arc left open. 2 steps. The lamp stays for the hit."}
+{"n":378,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the lamp at Mall court. Nobody past the north escape. We hit in 3 steps. Arc on the left lane, open."}
