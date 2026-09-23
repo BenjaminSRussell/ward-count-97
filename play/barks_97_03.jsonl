@@ -785,3 +785,6 @@
 {"n":785,"kind":"place","name":"Switchyard north escape","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Switchyard north escape. Nia keeps the plywood for the hit. 5 steps, arc on the left lane, open."}
 {"n":786,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, north escape. arc left open. 6 steps. The plywood stays for the hit."}
 {"n":787,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the plywood at Switchyard. Nobody past the north escape. We hit in 7 steps. Arc on the left lane, open."}
+{"n":788,"kind":"place","name":"Switchyard north escape","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Switchyard north escape. Ivo keeps the plywood for the hit. 8 steps, arc on the left lane, open."}
+{"n":789,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, north escape. arc left open. 2 steps. The plywood stays for the hit."}
+{"n":790,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the plywood at Switchyard. Nobody past the north escape. We hit in 3 steps. Arc on the left lane, open."}
