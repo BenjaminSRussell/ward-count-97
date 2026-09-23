@@ -606,3 +606,6 @@
 {"n":606,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Clinic roof, east escape. arc left open. 8 steps. The radio coil stays for the hit."}
 {"n":607,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the radio coil at Clinic roof. Nobody past the east escape. We hit in 2 steps. Arc on the left lane, open."}
 {"n":608,"kind":"place","name":"Clinic roof east escape","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Clinic roof east escape. Ivo keeps the radio coil for the hit. 3 steps, arc on the left lane, open."}
+{"n":609,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Clinic roof, east escape. arc left open. 4 steps. The radio coil stays for the hit."}
+{"n":610,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the radio coil at Clinic roof. Nobody past the east escape. We hit in 5 steps. Arc on the left lane, open."}
+{"n":611,"kind":"place","name":"Clinic roof east escape","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Clinic roof east escape. Bess keeps the radio coil for the hit. 6 steps, arc on the left lane, open."}
