@@ -543,3 +543,6 @@
 {"n":543,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the radio coil at the Lot. Nobody past the south escape. We hit in 4 steps. Arc on the left lane, open."}
 {"n":544,"kind":"place","name":"the Lot south escape","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"the Lot south escape. Ivo keeps the radio coil for the hit. 5 steps, arc on the left lane, open."}
 {"n":545,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, south escape. arc left open. 6 steps. The radio coil stays for the hit."}
+{"n":546,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the radio coil at the Lot. Nobody past the south escape. We hit in 7 steps. Arc on the left lane, open."}
+{"n":547,"kind":"place","name":"the Lot south escape","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"the Lot south escape. Bess keeps the radio coil for the hit. 8 steps, arc on the left lane, open."}
+{"n":548,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, south escape. arc left open. 2 steps. The radio coil stays for the hit."}
