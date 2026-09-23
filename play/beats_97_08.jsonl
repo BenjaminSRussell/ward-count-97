@@ -734,3 +734,6 @@
 {"n":734,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the rope at Stockyard fence. Nobody past the west curb. We start in 5 steps. Weave on the left lane, open."}
 {"n":735,"kind":"place","name":"Stockyard fence west curb","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Stockyard fence west curb. Bess keeps the rope for the start. 6 steps, weave on the left lane, open."}
 {"n":736,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Stockyard fence, west curb. weave left open. 7 steps. The rope stays for the start."}
+{"n":737,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the rope at Mall court. Nobody past the west curb. We start in 8 steps. Weave on the left lane, open."}
+{"n":738,"kind":"place","name":"Mall court west curb","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Mall court west curb. Matt keeps the rope for the start. 2 steps, weave on the left lane, open."}
+{"n":739,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mall court, west curb. weave left open. 3 steps. The rope stays for the start."}
