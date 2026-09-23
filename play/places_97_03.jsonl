@@ -210,3 +210,6 @@
 {"n":210,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Underpass, east escape. arc left open. 4 steps. The drum stays for the hit."}
 {"n":211,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the drum at the Underpass. Nobody past the east escape. We hit in 5 steps. Arc on the left lane, open."}
 {"n":212,"kind":"place","name":"the Underpass east escape","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"the Underpass east escape. Ivo keeps the drum for the hit. 6 steps, arc on the left lane, open."}
+{"n":213,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, east escape. arc left open. 7 steps. The drum stays for the hit."}
+{"n":214,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the drum at the Underpass. Nobody past the east escape. We hit in 8 steps. Arc on the left lane, open."}
+{"n":215,"kind":"place","name":"the Underpass east escape","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"the Underpass east escape. Bess keeps the drum for the hit. 2 steps, arc on the left lane, open."}
