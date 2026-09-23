@@ -795,3 +795,6 @@
 {"n":795,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, west escape. arc left open. 4 steps. The shutter stays for the hit."}
 {"n":796,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the shutter at Ward gate. Nobody past the west escape. We hit in 5 steps. Arc on the left lane, open."}
 {"n":797,"kind":"place","name":"Ward gate west escape","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Ward gate west escape. Nia keeps the shutter for the hit. 6 steps, arc on the left lane, open."}
+{"n":798,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Ward gate, west escape. arc left open. 7 steps. The shutter stays for the hit."}
+{"n":799,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the shutter at Ward gate. Nobody past the west escape. We hit in 8 steps. Arc on the left lane, open."}
+{"n":800,"kind":"place","name":"Ward gate west escape","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Ward gate west escape. Ivo keeps the shutter for the hit. 2 steps, arc on the left lane, open."}
