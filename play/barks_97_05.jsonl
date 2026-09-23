@@ -429,3 +429,6 @@
 {"n":429,"kind":"place","name":"South stair north escape","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"South stair north escape. Nia keeps the badge door for the hit. 4 steps, arc on the left lane, open."}
 {"n":430,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at South stair, north escape. arc left open. 5 steps. The badge door stays for the hit."}
 {"n":431,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the badge door at South stair. Nobody past the north escape. We hit in 6 steps. Arc on the left lane, open."}
+{"n":432,"kind":"place","name":"South stair north escape","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"South stair north escape. Ivo keeps the badge door for the hit. 7 steps, arc on the left lane, open."}
+{"n":433,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, north escape. arc left open. 8 steps. The badge door stays for the hit."}
+{"n":434,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the badge door at South stair. Nobody past the north escape. We hit in 2 steps. Arc on the left lane, open."}
