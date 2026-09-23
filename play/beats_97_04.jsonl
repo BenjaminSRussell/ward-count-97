@@ -510,3 +510,6 @@
 {"n":510,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the rebar at Kessler alley. Nobody past the north escape. We hit in 2 steps. Arc on the left lane, open."}
 {"n":511,"kind":"place","name":"Kessler alley north escape","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Kessler alley north escape. Bess keeps the rebar for the hit. 3 steps, arc on the left lane, open."}
 {"n":512,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, north escape. arc left open. 4 steps. The rebar stays for the hit."}
+{"n":513,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the rebar at the Lot. Nobody past the north escape. We hit in 5 steps. Arc on the left lane, open."}
+{"n":514,"kind":"place","name":"the Lot north escape","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"the Lot north escape. Matt keeps the rebar for the hit. 6 steps, arc on the left lane, open."}
+{"n":515,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Lot, north escape. arc left open. 7 steps. The rebar stays for the hit."}
