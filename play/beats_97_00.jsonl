@@ -679,3 +679,6 @@
 {"n":679,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the rope at Mall court. Nobody past the west escape. We hit in 7 steps. Arc on the left lane, open."}
 {"n":680,"kind":"place","name":"Mall court west escape","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Mall court west escape. Ivo keeps the rope for the hit. 8 steps, arc on the left lane, open."}
 {"n":681,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mall court, west escape. arc left open. 2 steps. The rope stays for the hit."}
+{"n":682,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the rope at Mall court. Nobody past the west escape. We hit in 3 steps. Arc on the left lane, open."}
+{"n":683,"kind":"place","name":"Mall court west escape","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Mall court west escape. Bess keeps the rope for the hit. 4 steps, arc on the left lane, open."}
+{"n":684,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, west escape. arc left open. 5 steps. The rope stays for the hit."}
