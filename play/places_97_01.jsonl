@@ -641,3 +641,6 @@
 {"n":641,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Ward gate, east escape. arc left open. 3 steps. The plywood stays for the hit."}
 {"n":642,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the plywood at Ward gate. Nobody past the east escape. We hit in 4 steps. Arc on the left lane, open."}
 {"n":643,"kind":"place","name":"Ward gate east escape","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Ward gate east escape. Bess keeps the plywood for the hit. 5 steps, arc on the left lane, open."}
+{"n":644,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, east escape. arc left open. 6 steps. The plywood stays for the hit."}
+{"n":645,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the plywood at Kessler alley. Nobody past the east escape. We hit in 7 steps. Arc on the left lane, open."}
+{"n":646,"kind":"place","name":"Kessler alley east escape","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Kessler alley east escape. Matt keeps the plywood for the hit. 8 steps, arc on the left lane, open."}
