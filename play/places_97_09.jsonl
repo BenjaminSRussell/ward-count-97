@@ -129,3 +129,6 @@
 {"n":129,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, west curb. weave left open. 8 steps. The awning stays for the start."}
 {"n":130,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the awning at South stair. Nobody past the west curb. We start in 2 steps. Weave on the left lane, open."}
 {"n":131,"kind":"place","name":"South stair west curb","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"South stair west curb. Bess keeps the awning for the start. 3 steps, weave on the left lane, open."}
+{"n":132,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, west curb. weave left open. 4 steps. The awning stays for the start."}
+{"n":133,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the awning at the pier. Nobody past the west curb. We start in 5 steps. Weave on the left lane, open."}
+{"n":134,"kind":"place","name":"the pier west curb","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"the pier west curb. Matt keeps the awning for the start. 6 steps, weave on the left lane, open."}
