@@ -887,3 +887,6 @@
 {"n":887,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the shutter at Mast yard. Nobody past the east escape. We hit in 3 steps. Arc on the left lane, open."}
 {"n":888,"kind":"place","name":"Mast yard east escape","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Mast yard east escape. Ivo keeps the shutter for the hit. 4 steps, arc on the left lane, open."}
 {"n":889,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, east escape. arc left open. 5 steps. The shutter stays for the hit."}
+{"n":890,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the shutter at Mast yard. Nobody past the east escape. We hit in 6 steps. Arc on the left lane, open."}
+{"n":891,"kind":"place","name":"Mast yard east escape","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Mast yard east escape. Bess keeps the shutter for the hit. 7 steps, arc on the left lane, open."}
+{"n":892,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, east escape. arc left open. 8 steps. The shutter stays for the hit."}
