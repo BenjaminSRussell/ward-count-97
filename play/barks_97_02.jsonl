@@ -549,3 +549,6 @@
 {"n":549,"kind":"place","name":"Mast yard east escape","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Mast yard east escape. Nia keeps the rebar for the hit. 8 steps, arc on the left lane, open."}
 {"n":550,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mast yard, east escape. arc left open. 2 steps. The rebar stays for the hit."}
 {"n":551,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the rebar at Mast yard. Nobody past the east escape. We hit in 3 steps. Arc on the left lane, open."}
+{"n":552,"kind":"place","name":"Mast yard east escape","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Mast yard east escape. Ivo keeps the rebar for the hit. 4 steps, arc on the left lane, open."}
+{"n":553,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, east escape. arc left open. 5 steps. The rebar stays for the hit."}
+{"n":554,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the rebar at Mast yard. Nobody past the east escape. We hit in 6 steps. Arc on the left lane, open."}
