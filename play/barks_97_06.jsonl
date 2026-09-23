@@ -557,3 +557,6 @@
 {"n":557,"kind":"place","name":"Mall court south escape","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Mall court south escape. Nia keeps the rebar for the hit. 5 steps, arc on the left lane, open."}
 {"n":558,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mall court, south escape. arc left open. 6 steps. The rebar stays for the hit."}
 {"n":559,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the rebar at Mall court. Nobody past the south escape. We hit in 7 steps. Arc on the left lane, open."}
+{"n":560,"kind":"place","name":"Mall court south escape","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Mall court south escape. Ivo keeps the rebar for the hit. 8 steps, arc on the left lane, open."}
+{"n":561,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mall court, south escape. arc left open. 2 steps. The rebar stays for the hit."}
+{"n":562,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the rebar at Mall court. Nobody past the south escape. We hit in 3 steps. Arc on the left lane, open."}
