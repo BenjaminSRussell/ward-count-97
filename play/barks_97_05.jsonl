@@ -24,3 +24,6 @@
 {"n":24,"kind":"place","name":"the Lot north escape","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"the Lot north escape. Ivo keeps the awning for the hit. 5 steps, arc on the left lane, open."}
 {"n":25,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, north escape. arc left open. 6 steps. The awning stays for the hit."}
 {"n":26,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the awning at the Lot. Nobody past the north escape. We hit in 7 steps. Arc on the left lane, open."}
+{"n":27,"kind":"place","name":"the Lot north escape","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"the Lot north escape. Bess keeps the awning for the hit. 8 steps, arc on the left lane, open."}
+{"n":28,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, north escape. arc left open. 2 steps. The awning stays for the hit."}
+{"n":29,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the awning at Stockyard fence. Nobody past the north escape. We hit in 3 steps. Arc on the left lane, open."}
