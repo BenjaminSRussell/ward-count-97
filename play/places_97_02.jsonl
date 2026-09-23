@@ -844,3 +844,6 @@
 {"n":844,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, east escape. arc left open. 2 steps. The shutter stays for the hit."}
 {"n":845,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the shutter at Stockyard fence. Nobody past the east escape. We hit in 3 steps. Arc on the left lane, open."}
 {"n":846,"kind":"place","name":"Stockyard fence east escape","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Stockyard fence east escape. Matt keeps the shutter for the hit. 4 steps, arc on the left lane, open."}
+{"n":847,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Stockyard fence, east escape. arc left open. 5 steps. The shutter stays for the hit."}
+{"n":848,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the shutter at Stockyard fence. Nobody past the east escape. We hit in 6 steps. Arc on the left lane, open."}
+{"n":849,"kind":"place","name":"Stockyard fence east escape","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Stockyard fence east escape. Nia keeps the shutter for the hit. 7 steps, arc on the left lane, open."}
