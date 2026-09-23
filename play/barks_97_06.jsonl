@@ -299,3 +299,6 @@
 {"n":299,"kind":"place","name":"Clinic roof south escape","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Clinic roof south escape. Bess keeps the crate for the hit. 6 steps, arc on the left lane, open."}
 {"n":300,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Clinic roof, south escape. arc left open. 7 steps. The crate stays for the hit."}
 {"n":301,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the crate at Switchyard. Nobody past the south escape. We hit in 8 steps. Arc on the left lane, open."}
+{"n":302,"kind":"place","name":"Switchyard south escape","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Switchyard south escape. Matt keeps the crate for the hit. 2 steps, arc on the left lane, open."}
+{"n":303,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Switchyard, south escape. arc left open. 3 steps. The crate stays for the hit."}
+{"n":304,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the crate at Switchyard. Nobody past the south escape. We hit in 4 steps. Arc on the left lane, open."}
