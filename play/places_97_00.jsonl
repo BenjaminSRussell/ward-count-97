@@ -108,3 +108,6 @@
 {"n":108,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, west escape. arc left open. 3 steps. The barrel stays for the hit."}
 {"n":109,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the barrel at High line. Nobody past the west escape. We hit in 4 steps. Arc on the left lane, open."}
 {"n":110,"kind":"place","name":"High line west escape","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"High line west escape. Matt keeps the barrel for the hit. 5 steps, arc on the left lane, open."}
+{"n":111,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at High line, west escape. arc left open. 6 steps. The barrel stays for the hit."}
+{"n":112,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the barrel at High line. Nobody past the west escape. We hit in 7 steps. Arc on the left lane, open."}
+{"n":113,"kind":"place","name":"High line west escape","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"High line west escape. Nia keeps the barrel for the hit. 8 steps, arc on the left lane, open."}
