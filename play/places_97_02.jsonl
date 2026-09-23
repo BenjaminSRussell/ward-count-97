@@ -397,3 +397,6 @@
 {"n":397,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Last Light, east escape. arc left open. 3 steps. The lamp stays for the hit."}
 {"n":398,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the lamp at Last Light. Nobody past the east escape. We hit in 4 steps. Arc on the left lane, open."}
 {"n":399,"kind":"place","name":"Last Light east escape","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Last Light east escape. Bess keeps the lamp for the hit. 5 steps, arc on the left lane, open."}
+{"n":400,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Last Light, east escape. arc left open. 6 steps. The lamp stays for the hit."}
+{"n":401,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the lamp at South stair. Nobody past the east escape. We hit in 7 steps. Arc on the left lane, open."}
+{"n":402,"kind":"place","name":"South stair east escape","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"South stair east escape. Matt keeps the lamp for the hit. 8 steps, arc on the left lane, open."}
