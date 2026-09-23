@@ -116,3 +116,6 @@
 {"n":116,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the awning at Clinic roof. Nobody past the north escape. We hit in 6 steps. Arc on the left lane, open."}
 {"n":117,"kind":"place","name":"Clinic roof north escape","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Clinic roof north escape. Nia keeps the awning for the hit. 7 steps, arc on the left lane, open."}
 {"n":118,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Clinic roof, north escape. arc left open. 8 steps. The awning stays for the hit."}
+{"n":119,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the awning at Clinic roof. Nobody past the north escape. We hit in 2 steps. Arc on the left lane, open."}
+{"n":120,"kind":"place","name":"Clinic roof north escape","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Clinic roof north escape. Ivo keeps the awning for the hit. 3 steps, arc on the left lane, open."}
+{"n":121,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Clinic roof, north escape. arc left open. 4 steps. The awning stays for the hit."}
