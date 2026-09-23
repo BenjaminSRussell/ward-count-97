@@ -900,3 +900,6 @@
 {"n":900,"kind":"place","name":"Last Light east escape","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Last Light east escape. Ivo keeps the shutter for the hit. 2 steps, arc on the left lane, open."}
 {"n":901,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Last Light, east escape. arc left open. 3 steps. The shutter stays for the hit."}
 {"n":902,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the shutter at Last Light. Nobody past the east escape. We hit in 4 steps. Arc on the left lane, open."}
+{"n":903,"kind":"place","name":"Last Light east escape","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Last Light east escape. Bess keeps the shutter for the hit. 5 steps, arc on the left lane, open."}
+{"n":904,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Last Light, east escape. arc left open. 6 steps. The shutter stays for the hit."}
+{"n":905,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the shutter at South stair. Nobody past the east escape. We hit in 7 steps. Arc on the left lane, open."}
