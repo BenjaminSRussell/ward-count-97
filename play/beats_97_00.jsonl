@@ -946,3 +946,6 @@
 {"n":946,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the shutter at Drydock. Nobody past the west escape. We hit in 8 steps. Arc on the left lane, open."}
 {"n":947,"kind":"place","name":"Drydock west escape","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Drydock west escape. Bess keeps the shutter for the hit. 2 steps, arc on the left lane, open."}
 {"n":948,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, west escape. arc left open. 3 steps. The shutter stays for the hit."}
+{"n":949,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the shutter at High line. Nobody past the west escape. We hit in 4 steps. Arc on the left lane, open."}
+{"n":950,"kind":"place","name":"High line west escape","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"High line west escape. Matt keeps the shutter for the hit. 5 steps, arc on the left lane, open."}
+{"n":951,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at High line, west escape. arc left open. 6 steps. The shutter stays for the hit."}
