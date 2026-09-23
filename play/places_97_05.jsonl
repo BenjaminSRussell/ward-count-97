@@ -223,3 +223,6 @@
 {"n":223,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, north escape. arc left open. 8 steps. The drum stays for the hit."}
 {"n":224,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the drum at the Underpass. Nobody past the north escape. We hit in 2 steps. Arc on the left lane, open."}
 {"n":225,"kind":"place","name":"the Underpass north escape","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"the Underpass north escape. Nia keeps the drum for the hit. 3 steps, arc on the left lane, open."}
+{"n":226,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Underpass, north escape. arc left open. 4 steps. The drum stays for the hit."}
+{"n":227,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the drum at the Underpass. Nobody past the north escape. We hit in 5 steps. Arc on the left lane, open."}
+{"n":228,"kind":"place","name":"the Underpass north escape","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"the Underpass north escape. Ivo keeps the drum for the hit. 6 steps, arc on the left lane, open."}
