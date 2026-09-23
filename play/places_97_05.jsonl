@@ -895,3 +895,6 @@
 {"n":895,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, south escape. arc left open. 8 steps. The hydrant stays for the hit."}
 {"n":896,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the hydrant at the Underpass. Nobody past the south escape. We hit in 2 steps. Arc on the left lane, open."}
 {"n":897,"kind":"place","name":"the Underpass south escape","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"the Underpass south escape. Nia keeps the hydrant for the hit. 3 steps, arc on the left lane, open."}
+{"n":898,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Underpass, south escape. arc left open. 4 steps. The hydrant stays for the hit."}
+{"n":899,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the hydrant at the Underpass. Nobody past the south escape. We hit in 5 steps. Arc on the left lane, open."}
+{"n":900,"kind":"place","name":"the Underpass south escape","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"the Underpass south escape. Ivo keeps the hydrant for the hit. 6 steps, arc on the left lane, open."}
