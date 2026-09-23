@@ -239,3 +239,6 @@
 {"n":239,"kind":"place","name":"Stockyard fence west curb","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Stockyard fence west curb. Bess keeps the drum for the start. 6 steps, weave on the left lane, open."}
 {"n":240,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Stockyard fence, west curb. weave left open. 7 steps. The drum stays for the start."}
 {"n":241,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the drum at Mall court. Nobody past the west curb. We start in 8 steps. Weave on the left lane, open."}
+{"n":242,"kind":"place","name":"Mall court west curb","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Mall court west curb. Matt keeps the drum for the start. 2 steps, weave on the left lane, open."}
+{"n":243,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mall court, west curb. weave left open. 3 steps. The drum stays for the start."}
+{"n":244,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the drum at Mall court. Nobody past the west curb. We start in 4 steps. Weave on the left lane, open."}
