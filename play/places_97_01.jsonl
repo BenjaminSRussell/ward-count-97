@@ -164,3 +164,6 @@
 {"n":164,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, west escape. arc left open. 2 steps. The drum stays for the hit."}
 {"n":165,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the drum at Stockyard fence. Nobody past the west escape. We hit in 3 steps. Arc on the left lane, open."}
 {"n":166,"kind":"place","name":"Stockyard fence west escape","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Stockyard fence west escape. Matt keeps the drum for the hit. 4 steps, arc on the left lane, open."}
+{"n":167,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Stockyard fence, west escape. arc left open. 5 steps. The drum stays for the hit."}
+{"n":168,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the drum at Stockyard fence. Nobody past the west escape. We hit in 6 steps. Arc on the left lane, open."}
+{"n":169,"kind":"place","name":"Stockyard fence west escape","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Stockyard fence west escape. Nia keeps the drum for the hit. 7 steps, arc on the left lane, open."}
