@@ -503,3 +503,6 @@
 {"n":503,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the rebar at the Lot. Nobody past the east escape. We hit in 4 steps. Arc on the left lane, open."}
 {"n":504,"kind":"place","name":"the Lot east escape","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"the Lot east escape. Ivo keeps the rebar for the hit. 5 steps, arc on the left lane, open."}
 {"n":505,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, east escape. arc left open. 6 steps. The rebar stays for the hit."}
+{"n":506,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the rebar at the Lot. Nobody past the east escape. We hit in 7 steps. Arc on the left lane, open."}
+{"n":507,"kind":"place","name":"the Lot east escape","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"the Lot east escape. Bess keeps the rebar for the hit. 8 steps, arc on the left lane, open."}
+{"n":508,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, east escape. arc left open. 2 steps. The rebar stays for the hit."}
