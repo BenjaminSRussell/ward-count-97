@@ -904,3 +904,6 @@
 {"n":904,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the shutter at the pier. Nobody past the west escape. We hit in 8 steps. Arc on the left lane, open."}
 {"n":905,"kind":"place","name":"the pier west escape","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"the pier west escape. Nia keeps the shutter for the hit. 2 steps, arc on the left lane, open."}
 {"n":906,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the pier, west escape. arc left open. 3 steps. The shutter stays for the hit."}
+{"n":907,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the shutter at the pier. Nobody past the west escape. We hit in 4 steps. Arc on the left lane, open."}
+{"n":908,"kind":"place","name":"the pier west escape","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"the pier west escape. Ivo keeps the shutter for the hit. 5 steps, arc on the left lane, open."}
+{"n":909,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, west escape. arc left open. 6 steps. The shutter stays for the hit."}
