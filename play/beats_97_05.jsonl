@@ -98,3 +98,6 @@
 {"n":98,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the awning at South stair. Nobody past the north escape. We hit in 2 steps. Arc on the left lane, open."}
 {"n":99,"kind":"place","name":"South stair north escape","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"South stair north escape. Bess keeps the awning for the hit. 3 steps, arc on the left lane, open."}
 {"n":100,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, north escape. arc left open. 4 steps. The awning stays for the hit."}
+{"n":101,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the awning at the pier. Nobody past the north escape. We hit in 5 steps. Arc on the left lane, open."}
+{"n":102,"kind":"place","name":"the pier north escape","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"the pier north escape. Matt keeps the awning for the hit. 6 steps, arc on the left lane, open."}
+{"n":103,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the pier, north escape. arc left open. 7 steps. The awning stays for the hit."}
