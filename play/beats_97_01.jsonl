@@ -288,3 +288,6 @@
 {"n":288,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the drum at High line. Nobody past the west escape. We hit in 7 steps. Arc on the left lane, open."}
 {"n":289,"kind":"place","name":"High line west escape","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"High line west escape. Nia keeps the drum for the hit. 8 steps, arc on the left lane, open."}
 {"n":290,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, west escape. arc left open. 2 steps. The drum stays for the hit."}
+{"n":291,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the drum at High line. Nobody past the west escape. We hit in 3 steps. Arc on the left lane, open."}
+{"n":292,"kind":"place","name":"High line west escape","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"High line west escape. Ivo keeps the drum for the hit. 4 steps, arc on the left lane, open."}
+{"n":293,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, west escape. arc left open. 5 steps. The drum stays for the hit."}
