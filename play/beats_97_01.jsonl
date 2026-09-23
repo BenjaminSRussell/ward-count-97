@@ -462,3 +462,6 @@
 {"n":462,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the badge door at High line. Nobody past the west escape. We hit in 6 steps. Arc on the left lane, open."}
 {"n":463,"kind":"place","name":"High line west escape","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"High line west escape. Bess keeps the badge door for the hit. 7 steps, arc on the left lane, open."}
 {"n":464,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, west escape. arc left open. 8 steps. The badge door stays for the hit."}
+{"n":465,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the radio coil at Ward gate. Nobody past the west escape. We hit in 2 steps. Arc on the left lane, open."}
+{"n":466,"kind":"place","name":"Ward gate west escape","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Ward gate west escape. Matt keeps the radio coil for the hit. 3 steps, arc on the left lane, open."}
+{"n":467,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, west escape. arc left open. 4 steps. The radio coil stays for the hit."}
