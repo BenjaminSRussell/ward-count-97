@@ -149,3 +149,6 @@
 {"n":149,"kind":"place","name":"the Lot west escape","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"the Lot west escape. Nia keeps the crate for the hit. 2 steps, arc on the left lane, open."}
 {"n":150,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Lot, west escape. arc left open. 3 steps. The crate stays for the hit."}
 {"n":151,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the crate at the Lot. Nobody past the west escape. We hit in 4 steps. Arc on the left lane, open."}
+{"n":152,"kind":"place","name":"the Lot west escape","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"the Lot west escape. Ivo keeps the crate for the hit. 5 steps, arc on the left lane, open."}
+{"n":153,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, west escape. arc left open. 6 steps. The crate stays for the hit."}
+{"n":154,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the crate at the Lot. Nobody past the west escape. We hit in 7 steps. Arc on the left lane, open."}
