@@ -503,3 +503,6 @@
 {"n":503,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the radio coil at Ward gate. Nobody past the north escape. We hit in 8 steps. Arc on the left lane, open."}
 {"n":504,"kind":"place","name":"Ward gate north escape","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Ward gate north escape. Ivo keeps the radio coil for the hit. 2 steps, arc on the left lane, open."}
 {"n":505,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Ward gate, north escape. arc left open. 3 steps. The radio coil stays for the hit."}
+{"n":506,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the radio coil at Ward gate. Nobody past the north escape. We hit in 4 steps. Arc on the left lane, open."}
+{"n":507,"kind":"place","name":"Ward gate north escape","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Ward gate north escape. Bess keeps the radio coil for the hit. 5 steps, arc on the left lane, open."}
+{"n":508,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, north escape. arc left open. 6 steps. The radio coil stays for the hit."}
