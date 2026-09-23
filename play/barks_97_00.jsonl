@@ -368,3 +368,6 @@
 {"n":368,"kind":"place","name":"Mast yard west escape","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Mast yard west escape. Ivo keeps the lamp for the hit. 4 steps, arc on the left lane, open."}
 {"n":369,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, west escape. arc left open. 5 steps. The lamp stays for the hit."}
 {"n":370,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the lamp at Mast yard. Nobody past the west escape. We hit in 6 steps. Arc on the left lane, open."}
+{"n":371,"kind":"place","name":"Mast yard west escape","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Mast yard west escape. Bess keeps the lamp for the hit. 7 steps, arc on the left lane, open."}
+{"n":372,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, west escape. arc left open. 8 steps. The lamp stays for the hit."}
+{"n":373,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the lamp at Last Light. Nobody past the west escape. We hit in 2 steps. Arc on the left lane, open."}
