@@ -484,3 +484,6 @@
 {"n":484,"kind":"place","name":"Switchyard south escape","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Switchyard south escape. Ivo keeps the badge door for the hit. 8 steps, arc on the left lane, open."}
 {"n":485,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, south escape. arc left open. 2 steps. The badge door stays for the hit."}
 {"n":486,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the badge door at Switchyard. Nobody past the south escape. We hit in 3 steps. Arc on the left lane, open."}
+{"n":487,"kind":"place","name":"Switchyard south escape","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Switchyard south escape. Bess keeps the badge door for the hit. 4 steps, arc on the left lane, open."}
+{"n":488,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, south escape. arc left open. 5 steps. The badge door stays for the hit."}
+{"n":489,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the badge door at Drydock. Nobody past the south escape. We hit in 6 steps. Arc on the left lane, open."}
