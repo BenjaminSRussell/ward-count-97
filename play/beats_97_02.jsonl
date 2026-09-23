@@ -290,3 +290,6 @@
 {"n":290,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the crate at Drydock. Nobody past the east escape. We hit in 8 steps. Arc on the left lane, open."}
 {"n":291,"kind":"place","name":"Drydock east escape","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Drydock east escape. Bess keeps the crate for the hit. 2 steps, arc on the left lane, open."}
 {"n":292,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, east escape. arc left open. 3 steps. The crate stays for the hit."}
+{"n":293,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the crate at High line. Nobody past the east escape. We hit in 4 steps. Arc on the left lane, open."}
+{"n":294,"kind":"place","name":"High line east escape","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"High line east escape. Matt keeps the crate for the hit. 5 steps, arc on the left lane, open."}
+{"n":295,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at High line, east escape. arc left open. 6 steps. The crate stays for the hit."}
