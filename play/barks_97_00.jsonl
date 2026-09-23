@@ -746,3 +746,6 @@
 {"n":746,"kind":"place","name":"Clinic roof west escape","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Clinic roof west escape. Matt keeps the rope for the hit. 4 steps, arc on the left lane, open."}
 {"n":747,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Clinic roof, west escape. arc left open. 5 steps. The rope stays for the hit."}
 {"n":748,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the rope at Clinic roof. Nobody past the west escape. We hit in 6 steps. Arc on the left lane, open."}
+{"n":749,"kind":"place","name":"Clinic roof west escape","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Clinic roof west escape. Nia keeps the rope for the hit. 7 steps, arc on the left lane, open."}
+{"n":750,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Clinic roof, west escape. arc left open. 8 steps. The rope stays for the hit."}
+{"n":751,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the rope at Clinic roof. Nobody past the west escape. We hit in 2 steps. Arc on the left lane, open."}
