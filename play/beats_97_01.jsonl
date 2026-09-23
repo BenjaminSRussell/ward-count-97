@@ -846,3 +846,6 @@
 {"n":846,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the hydrant at Stockyard fence. Nobody past the east escape. We hit in 5 steps. Arc on the left lane, open."}
 {"n":847,"kind":"place","name":"Stockyard fence east escape","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Stockyard fence east escape. Bess keeps the hydrant for the hit. 6 steps, arc on the left lane, open."}
 {"n":848,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Stockyard fence, east escape. arc left open. 7 steps. The hydrant stays for the hit."}
+{"n":849,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the hydrant at Mall court. Nobody past the east escape. We hit in 8 steps. Arc on the left lane, open."}
+{"n":850,"kind":"place","name":"Mall court east escape","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Mall court east escape. Matt keeps the hydrant for the hit. 2 steps, arc on the left lane, open."}
+{"n":851,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mall court, east escape. arc left open. 3 steps. The hydrant stays for the hit."}
