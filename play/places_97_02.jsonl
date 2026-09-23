@@ -328,3 +328,6 @@
 {"n":328,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, east escape. arc left open. 4 steps. The lamp stays for the hit."}
 {"n":329,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the lamp at the Lot. Nobody past the east escape. We hit in 5 steps. Arc on the left lane, open."}
 {"n":330,"kind":"place","name":"the Lot east escape","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"the Lot east escape. Matt keeps the lamp for the hit. 6 steps, arc on the left lane, open."}
+{"n":331,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Lot, east escape. arc left open. 7 steps. The lamp stays for the hit."}
+{"n":332,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the lamp at the Lot. Nobody past the east escape. We hit in 8 steps. Arc on the left lane, open."}
+{"n":333,"kind":"place","name":"the Lot east escape","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"the Lot east escape. Nia keeps the lamp for the hit. 2 steps, arc on the left lane, open."}
