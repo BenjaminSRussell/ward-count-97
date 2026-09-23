@@ -587,3 +587,6 @@
 {"n":587,"kind":"place","name":"Mall court west curb","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Mall court west curb. Bess keeps the radio coil for the start. 4 steps, weave on the left lane, open."}
 {"n":588,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, west curb. weave left open. 5 steps. The radio coil stays for the start."}
 {"n":589,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the radio coil at the Underpass. Nobody past the west curb. We start in 6 steps. Weave on the left lane, open."}
+{"n":590,"kind":"place","name":"the Underpass west curb","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"the Underpass west curb. Matt keeps the radio coil for the start. 7 steps, weave on the left lane, open."}
+{"n":591,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, west curb. weave left open. 8 steps. The radio coil stays for the start."}
+{"n":592,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the radio coil at the Underpass. Nobody past the west curb. We start in 2 steps. Weave on the left lane, open."}
