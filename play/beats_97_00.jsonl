@@ -742,3 +742,6 @@
 {"n":742,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the rope at the pier. Nobody past the west escape. We hit in 7 steps. Arc on the left lane, open."}
 {"n":743,"kind":"place","name":"the pier west escape","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"the pier west escape. Bess keeps the rope for the hit. 8 steps, arc on the left lane, open."}
 {"n":744,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, west escape. arc left open. 2 steps. The rope stays for the hit."}
+{"n":745,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the rope at Clinic roof. Nobody past the west escape. We hit in 3 steps. Arc on the left lane, open."}
+{"n":746,"kind":"place","name":"Clinic roof west escape","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Clinic roof west escape. Matt keeps the rope for the hit. 4 steps, arc on the left lane, open."}
+{"n":747,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Clinic roof, west escape. arc left open. 5 steps. The rope stays for the hit."}
