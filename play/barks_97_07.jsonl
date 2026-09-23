@@ -736,3 +736,6 @@
 {"n":736,"kind":"place","name":"Mall court west curb","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Mall court west curb. Ivo keeps the plywood for the start. 8 steps, weave on the left lane, open."}
 {"n":737,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mall court, west curb. weave left open. 2 steps. The plywood stays for the start."}
 {"n":738,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the plywood at Mall court. Nobody past the west curb. We start in 3 steps. Weave on the left lane, open."}
+{"n":739,"kind":"place","name":"Mall court west curb","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Mall court west curb. Bess keeps the plywood for the start. 4 steps, weave on the left lane, open."}
+{"n":740,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, west curb. weave left open. 5 steps. The plywood stays for the start."}
+{"n":741,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the plywood at the Underpass. Nobody past the west curb. We start in 6 steps. Weave on the left lane, open."}
