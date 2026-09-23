@@ -218,3 +218,6 @@
 {"n":218,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, south escape. arc left open. 8 steps. The drum stays for the hit."}
 {"n":219,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the drum at Stockyard fence. Nobody past the south escape. We hit in 2 steps. Arc on the left lane, open."}
 {"n":220,"kind":"place","name":"Stockyard fence south escape","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Stockyard fence south escape. Ivo keeps the drum for the hit. 3 steps, arc on the left lane, open."}
+{"n":221,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, south escape. arc left open. 4 steps. The drum stays for the hit."}
+{"n":222,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the drum at Stockyard fence. Nobody past the south escape. We hit in 5 steps. Arc on the left lane, open."}
+{"n":223,"kind":"place","name":"Stockyard fence south escape","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Stockyard fence south escape. Bess keeps the drum for the hit. 6 steps, arc on the left lane, open."}
