@@ -104,3 +104,6 @@
 {"n":104,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, west escape. arc left open. 5 steps. The awning stays for the hit."}
 {"n":105,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the awning at Drydock. Nobody past the west escape. We hit in 6 steps. Arc on the left lane, open."}
 {"n":106,"kind":"place","name":"Drydock west escape","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Drydock west escape. Matt keeps the awning for the hit. 7 steps, arc on the left lane, open."}
+{"n":107,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, west escape. arc left open. 8 steps. The awning stays for the hit."}
+{"n":108,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the awning at Drydock. Nobody past the west escape. We hit in 2 steps. Arc on the left lane, open."}
+{"n":109,"kind":"place","name":"Drydock west escape","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Drydock west escape. Nia keeps the awning for the hit. 3 steps, arc on the left lane, open."}
