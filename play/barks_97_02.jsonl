@@ -387,3 +387,6 @@
 {"n":387,"kind":"place","name":"Mast yard east escape","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Mast yard east escape. Bess keeps the lamp for the hit. 7 steps, arc on the left lane, open."}
 {"n":388,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, east escape. arc left open. 8 steps. The lamp stays for the hit."}
 {"n":389,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the lamp at Last Light. Nobody past the east escape. We hit in 2 steps. Arc on the left lane, open."}
+{"n":390,"kind":"place","name":"Last Light east escape","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Last Light east escape. Matt keeps the lamp for the hit. 3 steps, arc on the left lane, open."}
+{"n":391,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, east escape. arc left open. 4 steps. The lamp stays for the hit."}
+{"n":392,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the lamp at Last Light. Nobody past the east escape. We hit in 5 steps. Arc on the left lane, open."}
