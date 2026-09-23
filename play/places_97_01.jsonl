@@ -77,3 +77,6 @@
 {"n":77,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, west escape. arc left open. 6 steps. The awning stays for the hit."}
 {"n":78,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the awning at the pier. Nobody past the west escape. We hit in 7 steps. Arc on the left lane, open."}
 {"n":79,"kind":"place","name":"the pier west escape","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"the pier west escape. Bess keeps the awning for the hit. 8 steps, arc on the left lane, open."}
+{"n":80,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, west escape. arc left open. 2 steps. The awning stays for the hit."}
+{"n":81,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the awning at Clinic roof. Nobody past the west escape. We hit in 3 steps. Arc on the left lane, open."}
+{"n":82,"kind":"place","name":"Clinic roof west escape","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Clinic roof west escape. Matt keeps the awning for the hit. 4 steps, arc on the left lane, open."}
