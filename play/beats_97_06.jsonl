@@ -22,3 +22,6 @@
 {"n":22,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the barrel at Kessler alley. Nobody past the south escape. We hit in 2 steps. Arc on the left lane, open."}
 {"n":23,"kind":"place","name":"Kessler alley south escape","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Kessler alley south escape. Bess keeps the barrel for the hit. 3 steps, arc on the left lane, open."}
 {"n":24,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, south escape. arc left open. 4 steps. The barrel stays for the hit."}
+{"n":25,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the barrel at the Lot. Nobody past the south escape. We hit in 5 steps. Arc on the left lane, open."}
+{"n":26,"kind":"place","name":"the Lot south escape","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"the Lot south escape. Matt keeps the barrel for the hit. 6 steps, arc on the left lane, open."}
+{"n":27,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Lot, south escape. arc left open. 7 steps. The barrel stays for the hit."}
