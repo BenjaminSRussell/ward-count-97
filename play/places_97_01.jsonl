@@ -674,3 +674,6 @@
 {"n":674,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, east escape. arc left open. 8 steps. The plywood stays for the hit."}
 {"n":675,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the plywood at Stockyard fence. Nobody past the east escape. We hit in 2 steps. Arc on the left lane, open."}
 {"n":676,"kind":"place","name":"Stockyard fence east escape","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Stockyard fence east escape. Ivo keeps the plywood for the hit. 3 steps, arc on the left lane, open."}
+{"n":677,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, east escape. arc left open. 4 steps. The plywood stays for the hit."}
+{"n":678,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the plywood at Stockyard fence. Nobody past the east escape. We hit in 5 steps. Arc on the left lane, open."}
+{"n":679,"kind":"place","name":"Stockyard fence east escape","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Stockyard fence east escape. Bess keeps the plywood for the hit. 6 steps, arc on the left lane, open."}
