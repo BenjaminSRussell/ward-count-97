@@ -643,3 +643,6 @@
 {"n":643,"kind":"place","name":"Clinic roof south escape","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Clinic roof south escape. Bess keeps the radio coil for the hit. 6 steps, arc on the left lane, open."}
 {"n":644,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Clinic roof, south escape. arc left open. 7 steps. The radio coil stays for the hit."}
 {"n":645,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the radio coil at Switchyard. Nobody past the south escape. We hit in 8 steps. Arc on the left lane, open."}
+{"n":646,"kind":"place","name":"Switchyard south escape","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Switchyard south escape. Matt keeps the radio coil for the hit. 2 steps, arc on the left lane, open."}
+{"n":647,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Switchyard, south escape. arc left open. 3 steps. The radio coil stays for the hit."}
+{"n":648,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the radio coil at Switchyard. Nobody past the south escape. We hit in 4 steps. Arc on the left lane, open."}
