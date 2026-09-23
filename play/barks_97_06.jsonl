@@ -989,3 +989,6 @@
 {"n":989,"kind":"place","name":"Drydock south escape","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Drydock south escape. Nia keeps the shutter for the hit. 3 steps, arc on the left lane, open."}
 {"n":990,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, south escape. arc left open. 4 steps. The shutter stays for the hit."}
 {"n":991,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the shutter at Drydock. Nobody past the south escape. We hit in 5 steps. Arc on the left lane, open."}
+{"n":992,"kind":"place","name":"Drydock south escape","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Drydock south escape. Ivo keeps the shutter for the hit. 6 steps, arc on the left lane, open."}
+{"n":993,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, south escape. arc left open. 7 steps. The shutter stays for the hit."}
+{"n":994,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the shutter at Drydock. Nobody past the south escape. We hit in 8 steps. Arc on the left lane, open."}
