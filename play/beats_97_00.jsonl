@@ -664,3 +664,6 @@
 {"n":664,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the rope at Stockyard fence. Nobody past the west escape. We hit in 6 steps. Arc on the left lane, open."}
 {"n":665,"kind":"place","name":"Stockyard fence west escape","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Stockyard fence west escape. Nia keeps the rope for the hit. 7 steps, arc on the left lane, open."}
 {"n":666,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, west escape. arc left open. 8 steps. The rope stays for the hit."}
+{"n":667,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the rope at Stockyard fence. Nobody past the west escape. We hit in 2 steps. Arc on the left lane, open."}
+{"n":668,"kind":"place","name":"Stockyard fence west escape","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Stockyard fence west escape. Ivo keeps the rope for the hit. 3 steps, arc on the left lane, open."}
+{"n":669,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, west escape. arc left open. 4 steps. The rope stays for the hit."}
