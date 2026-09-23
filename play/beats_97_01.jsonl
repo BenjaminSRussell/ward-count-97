@@ -690,3 +690,6 @@
 {"n":690,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the plywood at Mall court. Nobody past the east escape. We hit in 3 steps. Arc on the left lane, open."}
 {"n":691,"kind":"place","name":"Mall court east escape","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Mall court east escape. Bess keeps the plywood for the hit. 4 steps, arc on the left lane, open."}
 {"n":692,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, east escape. arc left open. 5 steps. The plywood stays for the hit."}
+{"n":693,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the plywood at the Underpass. Nobody past the east escape. We hit in 6 steps. Arc on the left lane, open."}
+{"n":694,"kind":"place","name":"the Underpass east escape","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"the Underpass east escape. Matt keeps the plywood for the hit. 7 steps, arc on the left lane, open."}
+{"n":695,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, east escape. arc left open. 8 steps. The plywood stays for the hit."}
