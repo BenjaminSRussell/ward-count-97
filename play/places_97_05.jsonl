@@ -730,3 +730,6 @@
 {"n":730,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Underpass, south escape. arc left open. 4 steps. The plywood stays for the hit."}
 {"n":731,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the plywood at the Underpass. Nobody past the south escape. We hit in 5 steps. Arc on the left lane, open."}
 {"n":732,"kind":"place","name":"the Underpass south escape","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"the Underpass south escape. Ivo keeps the plywood for the hit. 6 steps, arc on the left lane, open."}
+{"n":733,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, south escape. arc left open. 7 steps. The plywood stays for the hit."}
+{"n":734,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the plywood at the Underpass. Nobody past the south escape. We hit in 8 steps. Arc on the left lane, open."}
+{"n":735,"kind":"place","name":"the Underpass south escape","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"the Underpass south escape. Bess keeps the plywood for the hit. 2 steps, arc on the left lane, open."}
