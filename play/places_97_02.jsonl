@@ -52,3 +52,6 @@
 {"n":52,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, east escape. arc left open. 8 steps. The barrel stays for the hit."}
 {"n":53,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the barrel at Last Light. Nobody past the east escape. We hit in 2 steps. Arc on the left lane, open."}
 {"n":54,"kind":"place","name":"Last Light east escape","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Last Light east escape. Matt keeps the barrel for the hit. 3 steps, arc on the left lane, open."}
+{"n":55,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, east escape. arc left open. 4 steps. The barrel stays for the hit."}
+{"n":56,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the barrel at Last Light. Nobody past the east escape. We hit in 5 steps. Arc on the left lane, open."}
+{"n":57,"kind":"place","name":"Last Light east escape","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Last Light east escape. Nia keeps the barrel for the hit. 6 steps, arc on the left lane, open."}
