@@ -375,3 +375,6 @@
 {"n":375,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Kessler alley, west curb. weave left open. 2 steps. The badge door stays for the start."}
 {"n":376,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the badge door at Kessler alley. Nobody past the west curb. We start in 3 steps. Weave on the left lane, open."}
 {"n":377,"kind":"place","name":"Kessler alley west curb","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Kessler alley west curb. Nia keeps the badge door for the start. 4 steps, weave on the left lane, open."}
+{"n":378,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, west curb. weave left open. 5 steps. The badge door stays for the start."}
+{"n":379,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the badge door at Kessler alley. Nobody past the west curb. We start in 6 steps. Weave on the left lane, open."}
+{"n":380,"kind":"place","name":"Kessler alley west curb","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Kessler alley west curb. Ivo keeps the badge door for the start. 7 steps, weave on the left lane, open."}
