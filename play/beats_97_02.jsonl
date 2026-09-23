@@ -347,3 +347,6 @@
 {"n":347,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the lamp at Stockyard fence. Nobody past the east escape. We hit in 2 steps. Arc on the left lane, open."}
 {"n":348,"kind":"place","name":"Stockyard fence east escape","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Stockyard fence east escape. Ivo keeps the lamp for the hit. 3 steps, arc on the left lane, open."}
 {"n":349,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, east escape. arc left open. 4 steps. The lamp stays for the hit."}
+{"n":350,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the lamp at Stockyard fence. Nobody past the east escape. We hit in 5 steps. Arc on the left lane, open."}
+{"n":351,"kind":"place","name":"Stockyard fence east escape","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Stockyard fence east escape. Bess keeps the lamp for the hit. 6 steps, arc on the left lane, open."}
+{"n":352,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Stockyard fence, east escape. arc left open. 7 steps. The lamp stays for the hit."}
