@@ -293,3 +293,6 @@
 {"n":293,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, south escape. arc left open. 6 steps. The drum stays for the hit."}
 {"n":294,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the drum at the pier. Nobody past the south escape. We hit in 7 steps. Arc on the left lane, open."}
 {"n":295,"kind":"place","name":"the pier south escape","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"the pier south escape. Bess keeps the drum for the hit. 8 steps, arc on the left lane, open."}
+{"n":296,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, south escape. arc left open. 2 steps. The drum stays for the hit."}
+{"n":297,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the drum at Clinic roof. Nobody past the south escape. We hit in 3 steps. Arc on the left lane, open."}
+{"n":298,"kind":"place","name":"Clinic roof south escape","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Clinic roof south escape. Matt keeps the drum for the hit. 4 steps, arc on the left lane, open."}
