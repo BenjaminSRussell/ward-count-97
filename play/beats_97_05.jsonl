@@ -353,3 +353,6 @@
 {"n":353,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the badge door at the Lot. Nobody past the north escape. We hit in 5 steps. Arc on the left lane, open."}
 {"n":354,"kind":"place","name":"the Lot north escape","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"the Lot north escape. Matt keeps the badge door for the hit. 6 steps, arc on the left lane, open."}
 {"n":355,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Lot, north escape. arc left open. 7 steps. The badge door stays for the hit."}
+{"n":356,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the badge door at the Lot. Nobody past the north escape. We hit in 8 steps. Arc on the left lane, open."}
+{"n":357,"kind":"place","name":"the Lot north escape","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"the Lot north escape. Nia keeps the badge door for the hit. 2 steps, arc on the left lane, open."}
+{"n":358,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Lot, north escape. arc left open. 3 steps. The badge door stays for the hit."}
