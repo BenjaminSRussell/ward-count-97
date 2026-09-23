@@ -219,3 +219,6 @@
 {"n":219,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Lot, west curb. weave left open. 7 steps. The drum stays for the start."}
 {"n":220,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the drum at the Lot. Nobody past the west curb. We start in 8 steps. Weave on the left lane, open."}
 {"n":221,"kind":"place","name":"the Lot west curb","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"the Lot west curb. Nia keeps the drum for the start. 2 steps, weave on the left lane, open."}
+{"n":222,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Lot, west curb. weave left open. 3 steps. The drum stays for the start."}
+{"n":223,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the drum at the Lot. Nobody past the west curb. We start in 4 steps. Weave on the left lane, open."}
+{"n":224,"kind":"place","name":"the Lot west curb","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"the Lot west curb. Ivo keeps the drum for the start. 5 steps, weave on the left lane, open."}
