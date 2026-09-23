@@ -283,3 +283,6 @@
 {"n":283,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the crate at High line. Nobody past the west escape. We hit in 3 steps. Arc on the left lane, open."}
 {"n":284,"kind":"place","name":"High line west escape","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"High line west escape. Ivo keeps the crate for the hit. 4 steps, arc on the left lane, open."}
 {"n":285,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, west escape. arc left open. 5 steps. The crate stays for the hit."}
+{"n":286,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the crate at High line. Nobody past the west escape. We hit in 6 steps. Arc on the left lane, open."}
+{"n":287,"kind":"place","name":"High line west escape","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"High line west escape. Bess keeps the crate for the hit. 7 steps, arc on the left lane, open."}
+{"n":288,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, west escape. arc left open. 8 steps. The crate stays for the hit."}
