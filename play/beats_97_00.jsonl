@@ -400,3 +400,6 @@
 {"n":400,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the lamp at the pier. Nobody past the west escape. We hit in 8 steps. Arc on the left lane, open."}
 {"n":401,"kind":"place","name":"the pier west escape","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"the pier west escape. Nia keeps the lamp for the hit. 2 steps, arc on the left lane, open."}
 {"n":402,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the pier, west escape. arc left open. 3 steps. The lamp stays for the hit."}
+{"n":403,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the lamp at the pier. Nobody past the west escape. We hit in 4 steps. Arc on the left lane, open."}
+{"n":404,"kind":"place","name":"the pier west escape","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"the pier west escape. Ivo keeps the lamp for the hit. 5 steps, arc on the left lane, open."}
+{"n":405,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, west escape. arc left open. 6 steps. The lamp stays for the hit."}
