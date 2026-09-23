@@ -663,3 +663,6 @@
 {"n":663,"kind":"place","name":"High line north escape","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"High line north escape. Bess keeps the radio coil for the hit. 7 steps, arc on the left lane, open."}
 {"n":664,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, north escape. arc left open. 8 steps. The radio coil stays for the hit."}
 {"n":665,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the plywood at Ward gate. Nobody past the south escape. We hit in 2 steps. Arc on the left lane, open."}
+{"n":666,"kind":"place","name":"Ward gate south escape","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Ward gate south escape. Matt keeps the plywood for the hit. 3 steps, arc on the left lane, open."}
+{"n":667,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, south escape. arc left open. 4 steps. The plywood stays for the hit."}
+{"n":668,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the plywood at Ward gate. Nobody past the south escape. We hit in 5 steps. Arc on the left lane, open."}
