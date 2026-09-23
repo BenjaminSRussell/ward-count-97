@@ -533,3 +533,6 @@
 {"n":533,"kind":"place","name":"Ward gate west curb","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Ward gate west curb. Nia keeps the radio coil for the start. 6 steps, weave on the left lane, open."}
 {"n":534,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Ward gate, west curb. weave left open. 7 steps. The radio coil stays for the start."}
 {"n":535,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the radio coil at Ward gate. Nobody past the west curb. We start in 8 steps. Weave on the left lane, open."}
+{"n":536,"kind":"place","name":"Ward gate west curb","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Ward gate west curb. Ivo keeps the radio coil for the start. 2 steps, weave on the left lane, open."}
+{"n":537,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Ward gate, west curb. weave left open. 3 steps. The radio coil stays for the start."}
+{"n":538,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the radio coil at Ward gate. Nobody past the west curb. We start in 4 steps. Weave on the left lane, open."}
