@@ -676,3 +676,6 @@
 {"n":676,"kind":"place","name":"Kessler alley north escape","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Kessler alley north escape. Ivo keeps the rope for the hit. 7 steps, arc on the left lane, open."}
 {"n":677,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, north escape. arc left open. 8 steps. The rope stays for the hit."}
 {"n":678,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the rope at Kessler alley. Nobody past the north escape. We hit in 2 steps. Arc on the left lane, open."}
+{"n":679,"kind":"place","name":"Kessler alley north escape","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Kessler alley north escape. Bess keeps the rope for the hit. 3 steps, arc on the left lane, open."}
+{"n":680,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, north escape. arc left open. 4 steps. The rope stays for the hit."}
+{"n":681,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the rope at the Lot. Nobody past the north escape. We hit in 5 steps. Arc on the left lane, open."}
