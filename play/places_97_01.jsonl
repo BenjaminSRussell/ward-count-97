@@ -650,3 +650,6 @@
 {"n":650,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, east escape. arc left open. 5 steps. The plywood stays for the hit."}
 {"n":651,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the plywood at Kessler alley. Nobody past the east escape. We hit in 6 steps. Arc on the left lane, open."}
 {"n":652,"kind":"place","name":"Kessler alley east escape","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Kessler alley east escape. Ivo keeps the plywood for the hit. 7 steps, arc on the left lane, open."}
+{"n":653,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, east escape. arc left open. 8 steps. The plywood stays for the hit."}
+{"n":654,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the plywood at Kessler alley. Nobody past the east escape. We hit in 2 steps. Arc on the left lane, open."}
+{"n":655,"kind":"place","name":"Kessler alley east escape","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Kessler alley east escape. Bess keeps the plywood for the hit. 3 steps, arc on the left lane, open."}
