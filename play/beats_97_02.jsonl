@@ -269,3 +269,6 @@
 {"n":269,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the crate at Switchyard. Nobody past the east escape. We hit in 8 steps. Arc on the left lane, open."}
 {"n":270,"kind":"place","name":"Switchyard east escape","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Switchyard east escape. Matt keeps the crate for the hit. 2 steps, arc on the left lane, open."}
 {"n":271,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Switchyard, east escape. arc left open. 3 steps. The crate stays for the hit."}
+{"n":272,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the crate at Switchyard. Nobody past the east escape. We hit in 4 steps. Arc on the left lane, open."}
+{"n":273,"kind":"place","name":"Switchyard east escape","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Switchyard east escape. Nia keeps the crate for the hit. 5 steps, arc on the left lane, open."}
+{"n":274,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, east escape. arc left open. 6 steps. The crate stays for the hit."}
