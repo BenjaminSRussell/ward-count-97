@@ -654,3 +654,6 @@
 {"n":654,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the plywood at Kessler alley. Nobody past the east escape. We hit in 2 steps. Arc on the left lane, open."}
 {"n":655,"kind":"place","name":"Kessler alley east escape","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Kessler alley east escape. Bess keeps the plywood for the hit. 3 steps, arc on the left lane, open."}
 {"n":656,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, east escape. arc left open. 4 steps. The plywood stays for the hit."}
+{"n":657,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the plywood at the Lot. Nobody past the east escape. We hit in 5 steps. Arc on the left lane, open."}
+{"n":658,"kind":"place","name":"the Lot east escape","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"the Lot east escape. Matt keeps the plywood for the hit. 6 steps, arc on the left lane, open."}
+{"n":659,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Lot, east escape. arc left open. 7 steps. The plywood stays for the hit."}
