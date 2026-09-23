@@ -184,3 +184,6 @@
 {"n":184,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the crate at Kessler alley. Nobody past the south escape. We hit in 3 steps. Arc on the left lane, open."}
 {"n":185,"kind":"place","name":"Kessler alley south escape","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Kessler alley south escape. Nia keeps the crate for the hit. 4 steps, arc on the left lane, open."}
 {"n":186,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, south escape. arc left open. 5 steps. The crate stays for the hit."}
+{"n":187,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the crate at Kessler alley. Nobody past the south escape. We hit in 6 steps. Arc on the left lane, open."}
+{"n":188,"kind":"place","name":"Kessler alley south escape","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Kessler alley south escape. Ivo keeps the crate for the hit. 7 steps, arc on the left lane, open."}
+{"n":189,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, south escape. arc left open. 8 steps. The crate stays for the hit."}
