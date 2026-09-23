@@ -348,3 +348,6 @@
 {"n":348,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, south escape. arc left open. 6 steps. The lamp stays for the hit."}
 {"n":349,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the lamp at Kessler alley. Nobody past the south escape. We hit in 7 steps. Arc on the left lane, open."}
 {"n":350,"kind":"place","name":"Kessler alley south escape","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Kessler alley south escape. Matt keeps the lamp for the hit. 8 steps, arc on the left lane, open."}
+{"n":351,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Kessler alley, south escape. arc left open. 2 steps. The lamp stays for the hit."}
+{"n":352,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the lamp at Kessler alley. Nobody past the south escape. We hit in 3 steps. Arc on the left lane, open."}
+{"n":353,"kind":"place","name":"Kessler alley south escape","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Kessler alley south escape. Nia keeps the lamp for the hit. 4 steps, arc on the left lane, open."}
