@@ -624,3 +624,6 @@
 {"n":624,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Last Light, west curb. weave left open. 6 steps. The radio coil stays for the start."}
 {"n":625,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the radio coil at South stair. Nobody past the west curb. We start in 7 steps. Weave on the left lane, open."}
 {"n":626,"kind":"place","name":"South stair west curb","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"South stair west curb. Matt keeps the radio coil for the start. 8 steps, weave on the left lane, open."}
+{"n":627,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at South stair, west curb. weave left open. 2 steps. The radio coil stays for the start."}
+{"n":628,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the radio coil at South stair. Nobody past the west curb. We start in 3 steps. Weave on the left lane, open."}
+{"n":629,"kind":"place","name":"South stair west curb","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"South stair west curb. Nia keeps the radio coil for the start. 4 steps, weave on the left lane, open."}
