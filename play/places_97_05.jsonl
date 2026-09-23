@@ -598,3 +598,6 @@
 {"n":598,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at South stair, north escape. arc left open. 5 steps. The radio coil stays for the hit."}
 {"n":599,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the radio coil at South stair. Nobody past the north escape. We hit in 6 steps. Arc on the left lane, open."}
 {"n":600,"kind":"place","name":"South stair north escape","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"South stair north escape. Ivo keeps the radio coil for the hit. 7 steps, arc on the left lane, open."}
+{"n":601,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, north escape. arc left open. 8 steps. The radio coil stays for the hit."}
+{"n":602,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the radio coil at South stair. Nobody past the north escape. We hit in 2 steps. Arc on the left lane, open."}
+{"n":603,"kind":"place","name":"South stair north escape","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"South stair north escape. Bess keeps the radio coil for the hit. 3 steps, arc on the left lane, open."}
