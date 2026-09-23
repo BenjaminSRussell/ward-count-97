@@ -488,3 +488,6 @@
 {"n":488,"kind":"place","name":"the Lot west escape","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"the Lot west escape. Ivo keeps the rebar for the hit. 5 steps, arc on the left lane, open."}
 {"n":489,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, west escape. arc left open. 6 steps. The rebar stays for the hit."}
 {"n":490,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the rebar at the Lot. Nobody past the west escape. We hit in 7 steps. Arc on the left lane, open."}
+{"n":491,"kind":"place","name":"the Lot west escape","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"the Lot west escape. Bess keeps the rebar for the hit. 8 steps, arc on the left lane, open."}
+{"n":492,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, west escape. arc left open. 2 steps. The rebar stays for the hit."}
+{"n":493,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the rebar at Stockyard fence. Nobody past the west escape. We hit in 3 steps. Arc on the left lane, open."}
