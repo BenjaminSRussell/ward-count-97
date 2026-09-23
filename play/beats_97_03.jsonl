@@ -244,3 +244,6 @@
 {"n":244,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the drum at South stair. Nobody past the east escape. We hit in 3 steps. Arc on the left lane, open."}
 {"n":245,"kind":"place","name":"South stair east escape","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"South stair east escape. Nia keeps the drum for the hit. 4 steps, arc on the left lane, open."}
 {"n":246,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at South stair, east escape. arc left open. 5 steps. The drum stays for the hit."}
+{"n":247,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the drum at South stair. Nobody past the east escape. We hit in 6 steps. Arc on the left lane, open."}
+{"n":248,"kind":"place","name":"South stair east escape","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"South stair east escape. Ivo keeps the drum for the hit. 7 steps, arc on the left lane, open."}
+{"n":249,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, east escape. arc left open. 8 steps. The drum stays for the hit."}
