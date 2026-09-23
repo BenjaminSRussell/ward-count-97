@@ -952,3 +952,6 @@
 {"n":952,"kind":"place","name":"Clinic roof north escape","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Clinic roof north escape. Ivo keeps the shutter for the hit. 3 steps, arc on the left lane, open."}
 {"n":953,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Clinic roof, north escape. arc left open. 4 steps. The shutter stays for the hit."}
 {"n":954,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the shutter at Clinic roof. Nobody past the north escape. We hit in 5 steps. Arc on the left lane, open."}
+{"n":955,"kind":"place","name":"Clinic roof north escape","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Clinic roof north escape. Bess keeps the shutter for the hit. 6 steps, arc on the left lane, open."}
+{"n":956,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Clinic roof, north escape. arc left open. 7 steps. The shutter stays for the hit."}
+{"n":957,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the shutter at Switchyard. Nobody past the north escape. We hit in 8 steps. Arc on the left lane, open."}
