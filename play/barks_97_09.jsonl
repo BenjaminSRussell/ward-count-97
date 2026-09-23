@@ -746,3 +746,6 @@
 {"n":746,"kind":"place","name":"Mall court east curb","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Mall court east curb. Matt keeps the plywood for the start. 2 steps, weave on the left lane, open."}
 {"n":747,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mall court, east curb. weave left open. 3 steps. The plywood stays for the start."}
 {"n":748,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the plywood at Mall court. Nobody past the east curb. We start in 4 steps. Weave on the left lane, open."}
+{"n":749,"kind":"place","name":"Mall court east curb","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Mall court east curb. Nia keeps the plywood for the start. 5 steps, weave on the left lane, open."}
+{"n":750,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mall court, east curb. weave left open. 6 steps. The plywood stays for the start."}
+{"n":751,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the plywood at Mall court. Nobody past the east curb. We start in 7 steps. Weave on the left lane, open."}
