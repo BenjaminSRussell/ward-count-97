@@ -530,3 +530,6 @@
 {"n":530,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Underpass, west escape. arc left open. 4 steps. The radio coil stays for the hit."}
 {"n":531,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the radio coil at the Underpass. Nobody past the west escape. We hit in 5 steps. Arc on the left lane, open."}
 {"n":532,"kind":"place","name":"the Underpass west escape","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"the Underpass west escape. Ivo keeps the radio coil for the hit. 6 steps, arc on the left lane, open."}
+{"n":533,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, west escape. arc left open. 7 steps. The radio coil stays for the hit."}
+{"n":534,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the radio coil at the Underpass. Nobody past the west escape. We hit in 8 steps. Arc on the left lane, open."}
+{"n":535,"kind":"place","name":"the Underpass west escape","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"the Underpass west escape. Bess keeps the radio coil for the hit. 2 steps, arc on the left lane, open."}
