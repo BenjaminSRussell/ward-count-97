@@ -388,3 +388,6 @@
 {"n":388,"kind":"place","name":"Stockyard fence south escape","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Stockyard fence south escape. Ivo keeps the badge door for the hit. 3 steps, arc on the left lane, open."}
 {"n":389,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, south escape. arc left open. 4 steps. The badge door stays for the hit."}
 {"n":390,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the badge door at Stockyard fence. Nobody past the south escape. We hit in 5 steps. Arc on the left lane, open."}
+{"n":391,"kind":"place","name":"Stockyard fence south escape","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Stockyard fence south escape. Bess keeps the badge door for the hit. 6 steps, arc on the left lane, open."}
+{"n":392,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Stockyard fence, south escape. arc left open. 7 steps. The badge door stays for the hit."}
+{"n":393,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the badge door at Mall court. Nobody past the south escape. We hit in 8 steps. Arc on the left lane, open."}
