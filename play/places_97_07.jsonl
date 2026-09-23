@@ -488,3 +488,6 @@
 {"n":488,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, south escape. arc left open. 5 steps. The badge door stays for the hit."}
 {"n":489,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the badge door at Drydock. Nobody past the south escape. We hit in 6 steps. Arc on the left lane, open."}
 {"n":490,"kind":"place","name":"Drydock south escape","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Drydock south escape. Matt keeps the badge door for the hit. 7 steps, arc on the left lane, open."}
+{"n":491,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, south escape. arc left open. 8 steps. The badge door stays for the hit."}
+{"n":492,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the badge door at Drydock. Nobody past the south escape. We hit in 2 steps. Arc on the left lane, open."}
+{"n":493,"kind":"place","name":"Drydock south escape","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Drydock south escape. Nia keeps the badge door for the hit. 3 steps, arc on the left lane, open."}
