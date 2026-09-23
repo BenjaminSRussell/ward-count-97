@@ -433,3 +433,6 @@
 {"n":433,"kind":"place","name":"Switchyard west escape","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Switchyard west escape. Nia keeps the badge door for the hit. 5 steps, arc on the left lane, open."}
 {"n":434,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, west escape. arc left open. 6 steps. The badge door stays for the hit."}
 {"n":435,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the badge door at Switchyard. Nobody past the west escape. We hit in 7 steps. Arc on the left lane, open."}
+{"n":436,"kind":"place","name":"Switchyard west escape","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Switchyard west escape. Ivo keeps the badge door for the hit. 8 steps, arc on the left lane, open."}
+{"n":437,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, west escape. arc left open. 2 steps. The badge door stays for the hit."}
+{"n":438,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the badge door at Switchyard. Nobody past the west escape. We hit in 3 steps. Arc on the left lane, open."}
