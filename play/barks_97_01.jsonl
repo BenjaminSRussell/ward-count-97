@@ -895,3 +895,6 @@
 {"n":895,"kind":"place","name":"Last Light east escape","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Last Light east escape. Bess keeps the hydrant for the hit. 5 steps, arc on the left lane, open."}
 {"n":896,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Last Light, east escape. arc left open. 6 steps. The hydrant stays for the hit."}
 {"n":897,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the hydrant at South stair. Nobody past the east escape. We hit in 7 steps. Arc on the left lane, open."}
+{"n":898,"kind":"place","name":"South stair east escape","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"South stair east escape. Matt keeps the hydrant for the hit. 8 steps, arc on the left lane, open."}
+{"n":899,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at South stair, east escape. arc left open. 2 steps. The hydrant stays for the hit."}
+{"n":900,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the hydrant at South stair. Nobody past the east escape. We hit in 3 steps. Arc on the left lane, open."}
