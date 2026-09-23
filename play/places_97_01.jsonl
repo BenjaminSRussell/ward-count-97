@@ -200,3 +200,6 @@
 {"n":200,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Underpass, west escape. arc left open. 3 steps. The drum stays for the hit."}
 {"n":201,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the drum at Mast yard. Nobody past the west escape. We hit in 4 steps. Arc on the left lane, open."}
 {"n":202,"kind":"place","name":"Mast yard west escape","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Mast yard west escape. Matt keeps the drum for the hit. 5 steps, arc on the left lane, open."}
+{"n":203,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mast yard, west escape. arc left open. 6 steps. The drum stays for the hit."}
+{"n":204,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the drum at Mast yard. Nobody past the west escape. We hit in 7 steps. Arc on the left lane, open."}
+{"n":205,"kind":"place","name":"Mast yard west escape","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Mast yard west escape. Nia keeps the drum for the hit. 8 steps, arc on the left lane, open."}
