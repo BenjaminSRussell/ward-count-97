@@ -334,3 +334,6 @@
 {"n":334,"kind":"place","name":"Stockyard fence west escape","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Stockyard fence west escape. Matt keeps the badge door for the hit. 4 steps, arc on the left lane, open."}
 {"n":335,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Stockyard fence, west escape. arc left open. 5 steps. The badge door stays for the hit."}
 {"n":336,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the badge door at Stockyard fence. Nobody past the west escape. We hit in 6 steps. Arc on the left lane, open."}
+{"n":337,"kind":"place","name":"Stockyard fence west escape","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Stockyard fence west escape. Nia keeps the badge door for the hit. 7 steps, arc on the left lane, open."}
+{"n":338,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, west escape. arc left open. 8 steps. The badge door stays for the hit."}
+{"n":339,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the badge door at Stockyard fence. Nobody past the west escape. We hit in 2 steps. Arc on the left lane, open."}
