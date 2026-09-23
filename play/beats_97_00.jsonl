@@ -481,3 +481,6 @@
 {"n":481,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the rebar at the Lot. Nobody past the west escape. We hit in 5 steps. Arc on the left lane, open."}
 {"n":482,"kind":"place","name":"the Lot west escape","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"the Lot west escape. Matt keeps the rebar for the hit. 6 steps, arc on the left lane, open."}
 {"n":483,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Lot, west escape. arc left open. 7 steps. The rebar stays for the hit."}
+{"n":484,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the rebar at the Lot. Nobody past the west escape. We hit in 8 steps. Arc on the left lane, open."}
+{"n":485,"kind":"place","name":"the Lot west escape","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"the Lot west escape. Nia keeps the rebar for the hit. 2 steps, arc on the left lane, open."}
+{"n":486,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Lot, west escape. arc left open. 3 steps. The rebar stays for the hit."}
