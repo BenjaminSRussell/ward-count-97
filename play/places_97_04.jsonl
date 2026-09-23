@@ -98,3 +98,6 @@
 {"n":98,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the pier, north escape. arc left open. 3 steps. The barrel stays for the hit."}
 {"n":99,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the barrel at the pier. Nobody past the north escape. We hit in 4 steps. Arc on the left lane, open."}
 {"n":100,"kind":"place","name":"the pier north escape","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"the pier north escape. Ivo keeps the barrel for the hit. 5 steps, arc on the left lane, open."}
+{"n":101,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, north escape. arc left open. 6 steps. The barrel stays for the hit."}
+{"n":102,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the barrel at the pier. Nobody past the north escape. We hit in 7 steps. Arc on the left lane, open."}
+{"n":103,"kind":"place","name":"the pier north escape","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"the pier north escape. Bess keeps the barrel for the hit. 8 steps, arc on the left lane, open."}
