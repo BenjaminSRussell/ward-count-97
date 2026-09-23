@@ -943,3 +943,6 @@
 {"n":943,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the hydrant at Clinic roof. Nobody past the north escape. We hit in 2 steps. Arc on the left lane, open."}
 {"n":944,"kind":"place","name":"Clinic roof north escape","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Clinic roof north escape. Ivo keeps the hydrant for the hit. 3 steps, arc on the left lane, open."}
 {"n":945,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Clinic roof, north escape. arc left open. 4 steps. The hydrant stays for the hit."}
+{"n":946,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the hydrant at Clinic roof. Nobody past the north escape. We hit in 5 steps. Arc on the left lane, open."}
+{"n":947,"kind":"place","name":"Clinic roof north escape","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Clinic roof north escape. Bess keeps the hydrant for the hit. 6 steps, arc on the left lane, open."}
+{"n":948,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Clinic roof, north escape. arc left open. 7 steps. The hydrant stays for the hit."}
