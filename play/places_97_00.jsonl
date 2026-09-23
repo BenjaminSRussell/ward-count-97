@@ -447,3 +447,6 @@
 {"n":447,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at High line, west escape. arc left open. 6 steps. The lamp stays for the hit."}
 {"n":448,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the lamp at High line. Nobody past the west escape. We hit in 7 steps. Arc on the left lane, open."}
 {"n":449,"kind":"place","name":"High line west escape","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"High line west escape. Nia keeps the lamp for the hit. 8 steps, arc on the left lane, open."}
+{"n":450,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, west escape. arc left open. 2 steps. The lamp stays for the hit."}
+{"n":451,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the lamp at High line. Nobody past the west escape. We hit in 3 steps. Arc on the left lane, open."}
+{"n":452,"kind":"place","name":"High line west escape","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"High line west escape. Ivo keeps the lamp for the hit. 4 steps, arc on the left lane, open."}
