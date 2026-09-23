@@ -687,3 +687,6 @@
 {"n":687,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, west escape. arc left open. 8 steps. The rope stays for the hit."}
 {"n":688,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the rope at the Underpass. Nobody past the west escape. We hit in 2 steps. Arc on the left lane, open."}
 {"n":689,"kind":"place","name":"the Underpass west escape","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"the Underpass west escape. Nia keeps the rope for the hit. 3 steps, arc on the left lane, open."}
+{"n":690,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Underpass, west escape. arc left open. 4 steps. The rope stays for the hit."}
+{"n":691,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the rope at the Underpass. Nobody past the west escape. We hit in 5 steps. Arc on the left lane, open."}
+{"n":692,"kind":"place","name":"the Underpass west escape","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"the Underpass west escape. Ivo keeps the rope for the hit. 6 steps, arc on the left lane, open."}
