@@ -948,3 +948,6 @@
 {"n":948,"kind":"place","name":"the pier south escape","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"the pier south escape. Ivo keeps the hydrant for the hit. 5 steps, arc on the left lane, open."}
 {"n":949,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, south escape. arc left open. 6 steps. The hydrant stays for the hit."}
 {"n":950,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the hydrant at the pier. Nobody past the south escape. We hit in 7 steps. Arc on the left lane, open."}
+{"n":951,"kind":"place","name":"the pier south escape","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"the pier south escape. Bess keeps the hydrant for the hit. 8 steps, arc on the left lane, open."}
+{"n":952,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, south escape. arc left open. 2 steps. The hydrant stays for the hit."}
+{"n":953,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the hydrant at Clinic roof. Nobody past the south escape. We hit in 3 steps. Arc on the left lane, open."}
