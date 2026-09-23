@@ -975,3 +975,6 @@
 {"n":975,"kind":"place","name":"High line east escape","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"High line east escape. Bess keeps the shutter for the hit. 7 steps, arc on the left lane, open."}
 {"n":976,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, east escape. arc left open. 8 steps. The shutter stays for the hit."}
 {"n":977,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the awning at Ward gate. Nobody past the east escape. We hit in 2 steps. Arc on the left lane, open."}
+{"n":978,"kind":"place","name":"Ward gate east escape","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Ward gate east escape. Matt keeps the awning for the hit. 3 steps, arc on the left lane, open."}
+{"n":979,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, east escape. arc left open. 4 steps. The awning stays for the hit."}
+{"n":980,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the awning at Ward gate. Nobody past the east escape. We hit in 5 steps. Arc on the left lane, open."}
