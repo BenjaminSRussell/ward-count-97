@@ -297,3 +297,6 @@
 {"n":297,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, east escape. arc left open. 7 steps. The drum stays for the hit."}
 {"n":298,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the drum at Drydock. Nobody past the east escape. We hit in 8 steps. Arc on the left lane, open."}
 {"n":299,"kind":"place","name":"Drydock east escape","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Drydock east escape. Bess keeps the drum for the hit. 2 steps, arc on the left lane, open."}
+{"n":300,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, east escape. arc left open. 3 steps. The drum stays for the hit."}
+{"n":301,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the drum at High line. Nobody past the east escape. We hit in 4 steps. Arc on the left lane, open."}
+{"n":302,"kind":"place","name":"High line east escape","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"High line east escape. Matt keeps the drum for the hit. 5 steps, arc on the left lane, open."}
