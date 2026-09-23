@@ -786,3 +786,6 @@
 {"n":786,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the rope at Clinic roof. Nobody past the north escape. We hit in 5 steps. Arc on the left lane, open."}
 {"n":787,"kind":"place","name":"Clinic roof north escape","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Clinic roof north escape. Bess keeps the rope for the hit. 6 steps, arc on the left lane, open."}
 {"n":788,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Clinic roof, north escape. arc left open. 7 steps. The rope stays for the hit."}
+{"n":789,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the rope at Switchyard. Nobody past the north escape. We hit in 8 steps. Arc on the left lane, open."}
+{"n":790,"kind":"place","name":"Switchyard north escape","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Switchyard north escape. Matt keeps the rope for the hit. 2 steps, arc on the left lane, open."}
+{"n":791,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Switchyard, north escape. arc left open. 3 steps. The rope stays for the hit."}
