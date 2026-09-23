@@ -140,3 +140,6 @@
 {"n":140,"kind":"place","name":"Kessler alley west escape","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Kessler alley west escape. Ivo keeps the crate for the hit. 7 steps, arc on the left lane, open."}
 {"n":141,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, west escape. arc left open. 8 steps. The crate stays for the hit."}
 {"n":142,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the crate at Kessler alley. Nobody past the west escape. We hit in 2 steps. Arc on the left lane, open."}
+{"n":143,"kind":"place","name":"Kessler alley west escape","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Kessler alley west escape. Bess keeps the crate for the hit. 3 steps, arc on the left lane, open."}
+{"n":144,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, west escape. arc left open. 4 steps. The crate stays for the hit."}
+{"n":145,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the crate at the Lot. Nobody past the west escape. We hit in 5 steps. Arc on the left lane, open."}
