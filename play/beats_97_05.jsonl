@@ -158,3 +158,6 @@
 {"n":158,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the awning at High line. Nobody past the north escape. We hit in 6 steps. Arc on the left lane, open."}
 {"n":159,"kind":"place","name":"High line north escape","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"High line north escape. Bess keeps the awning for the hit. 7 steps, arc on the left lane, open."}
 {"n":160,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, north escape. arc left open. 8 steps. The awning stays for the hit."}
+{"n":161,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the drum at Ward gate. Nobody past the north escape. We hit in 2 steps. Arc on the left lane, open."}
+{"n":162,"kind":"place","name":"Ward gate north escape","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Ward gate north escape. Matt keeps the drum for the hit. 3 steps, arc on the left lane, open."}
+{"n":163,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, north escape. arc left open. 4 steps. The drum stays for the hit."}
