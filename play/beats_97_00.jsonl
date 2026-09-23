@@ -70,3 +70,6 @@
 {"n":70,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the barrel at the pier. Nobody past the west escape. We hit in 7 steps. Arc on the left lane, open."}
 {"n":71,"kind":"place","name":"the pier west escape","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"the pier west escape. Bess keeps the barrel for the hit. 8 steps, arc on the left lane, open."}
 {"n":72,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, west escape. arc left open. 2 steps. The barrel stays for the hit."}
+{"n":73,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the barrel at Clinic roof. Nobody past the west escape. We hit in 3 steps. Arc on the left lane, open."}
+{"n":74,"kind":"place","name":"Clinic roof west escape","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Clinic roof west escape. Matt keeps the barrel for the hit. 4 steps, arc on the left lane, open."}
+{"n":75,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Clinic roof, west escape. arc left open. 5 steps. The barrel stays for the hit."}
