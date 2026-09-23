@@ -118,3 +118,6 @@
 {"n":118,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the barrel at the pier. Nobody past the south escape. We hit in 7 steps. Arc on the left lane, open."}
 {"n":119,"kind":"place","name":"the pier south escape","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"the pier south escape. Bess keeps the barrel for the hit. 8 steps, arc on the left lane, open."}
 {"n":120,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, south escape. arc left open. 2 steps. The barrel stays for the hit."}
+{"n":121,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the barrel at Clinic roof. Nobody past the south escape. We hit in 3 steps. Arc on the left lane, open."}
+{"n":122,"kind":"place","name":"Clinic roof south escape","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Clinic roof south escape. Matt keeps the barrel for the hit. 4 steps, arc on the left lane, open."}
+{"n":123,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Clinic roof, south escape. arc left open. 5 steps. The barrel stays for the hit."}
