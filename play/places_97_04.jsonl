@@ -392,3 +392,6 @@
 {"n":392,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Underpass, north escape. arc left open. 3 steps. The lamp stays for the hit."}
 {"n":393,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the lamp at Mast yard. Nobody past the north escape. We hit in 4 steps. Arc on the left lane, open."}
 {"n":394,"kind":"place","name":"Mast yard north escape","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Mast yard north escape. Matt keeps the lamp for the hit. 5 steps, arc on the left lane, open."}
+{"n":395,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mast yard, north escape. arc left open. 6 steps. The lamp stays for the hit."}
+{"n":396,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the lamp at Mast yard. Nobody past the north escape. We hit in 7 steps. Arc on the left lane, open."}
+{"n":397,"kind":"place","name":"Mast yard north escape","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Mast yard north escape. Nia keeps the lamp for the hit. 8 steps, arc on the left lane, open."}
