@@ -120,3 +120,6 @@
 {"n":120,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the awning at the pier. Nobody past the south escape. We hit in 8 steps. Arc on the left lane, open."}
 {"n":121,"kind":"place","name":"the pier south escape","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"the pier south escape. Nia keeps the awning for the hit. 2 steps, arc on the left lane, open."}
 {"n":122,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the pier, south escape. arc left open. 3 steps. The awning stays for the hit."}
+{"n":123,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the awning at the pier. Nobody past the south escape. We hit in 4 steps. Arc on the left lane, open."}
+{"n":124,"kind":"place","name":"the pier south escape","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"the pier south escape. Ivo keeps the awning for the hit. 5 steps, arc on the left lane, open."}
+{"n":125,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, south escape. arc left open. 6 steps. The awning stays for the hit."}
