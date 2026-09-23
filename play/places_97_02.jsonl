@@ -31,3 +31,6 @@
 {"n":31,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, east escape. arc left open. 8 steps. The barrel stays for the hit."}
 {"n":32,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the barrel at the Underpass. Nobody past the east escape. We hit in 2 steps. Arc on the left lane, open."}
 {"n":33,"kind":"place","name":"the Underpass east escape","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"the Underpass east escape. Nia keeps the barrel for the hit. 3 steps, arc on the left lane, open."}
+{"n":34,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Underpass, east escape. arc left open. 4 steps. The barrel stays for the hit."}
+{"n":35,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the barrel at the Underpass. Nobody past the east escape. We hit in 5 steps. Arc on the left lane, open."}
+{"n":36,"kind":"place","name":"the Underpass east escape","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"the Underpass east escape. Ivo keeps the barrel for the hit. 6 steps, arc on the left lane, open."}
