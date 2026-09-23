@@ -627,3 +627,6 @@
 {"n":627,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Clinic roof, south escape. arc left open. 5 steps. The rebar stays for the hit."}
 {"n":628,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the rebar at Clinic roof. Nobody past the south escape. We hit in 6 steps. Arc on the left lane, open."}
 {"n":629,"kind":"place","name":"Clinic roof south escape","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Clinic roof south escape. Nia keeps the rebar for the hit. 7 steps, arc on the left lane, open."}
+{"n":630,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Clinic roof, south escape. arc left open. 8 steps. The rebar stays for the hit."}
+{"n":631,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the rebar at Clinic roof. Nobody past the south escape. We hit in 2 steps. Arc on the left lane, open."}
+{"n":632,"kind":"place","name":"Clinic roof south escape","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Clinic roof south escape. Ivo keeps the rebar for the hit. 3 steps, arc on the left lane, open."}
