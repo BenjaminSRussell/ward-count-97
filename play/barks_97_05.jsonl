@@ -291,3 +291,6 @@
 {"n":291,"kind":"place","name":"Clinic roof north escape","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Clinic roof north escape. Bess keeps the drum for the hit. 6 steps, arc on the left lane, open."}
 {"n":292,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Clinic roof, north escape. arc left open. 7 steps. The drum stays for the hit."}
 {"n":293,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the drum at Switchyard. Nobody past the north escape. We hit in 8 steps. Arc on the left lane, open."}
+{"n":294,"kind":"place","name":"Switchyard north escape","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Switchyard north escape. Matt keeps the drum for the hit. 2 steps, arc on the left lane, open."}
+{"n":295,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Switchyard, north escape. arc left open. 3 steps. The drum stays for the hit."}
+{"n":296,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the drum at Switchyard. Nobody past the north escape. We hit in 4 steps. Arc on the left lane, open."}
