@@ -269,3 +269,6 @@
 {"n":269,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the drum at the pier. Nobody past the north escape. We hit in 5 steps. Arc on the left lane, open."}
 {"n":270,"kind":"place","name":"the pier north escape","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"the pier north escape. Matt keeps the drum for the hit. 6 steps, arc on the left lane, open."}
 {"n":271,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the pier, north escape. arc left open. 7 steps. The drum stays for the hit."}
+{"n":272,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the drum at the pier. Nobody past the north escape. We hit in 8 steps. Arc on the left lane, open."}
+{"n":273,"kind":"place","name":"the pier north escape","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"the pier north escape. Nia keeps the drum for the hit. 2 steps, arc on the left lane, open."}
+{"n":274,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the pier, north escape. arc left open. 3 steps. The drum stays for the hit."}
