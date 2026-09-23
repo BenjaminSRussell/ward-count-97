@@ -952,3 +952,6 @@
 {"n":952,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the shutter at High line. Nobody past the west escape. We hit in 7 steps. Arc on the left lane, open."}
 {"n":953,"kind":"place","name":"High line west escape","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"High line west escape. Nia keeps the shutter for the hit. 8 steps, arc on the left lane, open."}
 {"n":954,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, west escape. arc left open. 2 steps. The shutter stays for the hit."}
+{"n":955,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the shutter at High line. Nobody past the west escape. We hit in 3 steps. Arc on the left lane, open."}
+{"n":956,"kind":"place","name":"High line west escape","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"High line west escape. Ivo keeps the shutter for the hit. 4 steps, arc on the left lane, open."}
+{"n":957,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, west escape. arc left open. 5 steps. The shutter stays for the hit."}
