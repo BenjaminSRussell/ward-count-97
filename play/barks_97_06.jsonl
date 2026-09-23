@@ -794,3 +794,6 @@
 {"n":794,"kind":"place","name":"Clinic roof south escape","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Clinic roof south escape. Matt keeps the rope for the hit. 4 steps, arc on the left lane, open."}
 {"n":795,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Clinic roof, south escape. arc left open. 5 steps. The rope stays for the hit."}
 {"n":796,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the rope at Clinic roof. Nobody past the south escape. We hit in 6 steps. Arc on the left lane, open."}
+{"n":797,"kind":"place","name":"Clinic roof south escape","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Clinic roof south escape. Nia keeps the rope for the hit. 7 steps, arc on the left lane, open."}
+{"n":798,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Clinic roof, south escape. arc left open. 8 steps. The rope stays for the hit."}
+{"n":799,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the rope at Clinic roof. Nobody past the south escape. We hit in 2 steps. Arc on the left lane, open."}
