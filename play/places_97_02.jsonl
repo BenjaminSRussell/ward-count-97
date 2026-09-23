@@ -241,3 +241,6 @@
 {"n":241,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, east escape. arc left open. 8 steps. The crate stays for the hit."}
 {"n":242,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the crate at South stair. Nobody past the east escape. We hit in 2 steps. Arc on the left lane, open."}
 {"n":243,"kind":"place","name":"South stair east escape","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"South stair east escape. Bess keeps the crate for the hit. 3 steps, arc on the left lane, open."}
+{"n":244,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, east escape. arc left open. 4 steps. The crate stays for the hit."}
+{"n":245,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the crate at the pier. Nobody past the east escape. We hit in 5 steps. Arc on the left lane, open."}
+{"n":246,"kind":"place","name":"the pier east escape","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"the pier east escape. Matt keeps the crate for the hit. 6 steps, arc on the left lane, open."}
