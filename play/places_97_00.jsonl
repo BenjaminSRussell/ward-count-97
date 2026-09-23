@@ -813,3 +813,6 @@
 {"n":813,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, west escape. arc left open. 8 steps. The shutter stays for the hit."}
 {"n":814,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the shutter at Kessler alley. Nobody past the west escape. We hit in 2 steps. Arc on the left lane, open."}
 {"n":815,"kind":"place","name":"Kessler alley west escape","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Kessler alley west escape. Bess keeps the shutter for the hit. 3 steps, arc on the left lane, open."}
+{"n":816,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, west escape. arc left open. 4 steps. The shutter stays for the hit."}
+{"n":817,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the shutter at the Lot. Nobody past the west escape. We hit in 5 steps. Arc on the left lane, open."}
+{"n":818,"kind":"place","name":"the Lot west escape","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"the Lot west escape. Matt keeps the shutter for the hit. 6 steps, arc on the left lane, open."}
