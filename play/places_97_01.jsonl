@@ -152,3 +152,6 @@
 {"n":152,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, west escape. arc left open. 4 steps. The drum stays for the hit."}
 {"n":153,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the drum at the Lot. Nobody past the west escape. We hit in 5 steps. Arc on the left lane, open."}
 {"n":154,"kind":"place","name":"the Lot west escape","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"the Lot west escape. Matt keeps the drum for the hit. 6 steps, arc on the left lane, open."}
+{"n":155,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Lot, west escape. arc left open. 7 steps. The drum stays for the hit."}
+{"n":156,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the drum at the Lot. Nobody past the west escape. We hit in 8 steps. Arc on the left lane, open."}
+{"n":157,"kind":"place","name":"the Lot west escape","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"the Lot west escape. Nia keeps the drum for the hit. 2 steps, arc on the left lane, open."}
