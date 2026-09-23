@@ -233,3 +233,6 @@
 {"n":233,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the drum at Mast yard. Nobody past the north escape. We hit in 4 steps. Arc on the left lane, open."}
 {"n":234,"kind":"place","name":"Mast yard north escape","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Mast yard north escape. Matt keeps the drum for the hit. 5 steps, arc on the left lane, open."}
 {"n":235,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mast yard, north escape. arc left open. 6 steps. The drum stays for the hit."}
+{"n":236,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the drum at Mast yard. Nobody past the north escape. We hit in 7 steps. Arc on the left lane, open."}
+{"n":237,"kind":"place","name":"Mast yard north escape","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Mast yard north escape. Nia keeps the drum for the hit. 8 steps, arc on the left lane, open."}
+{"n":238,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mast yard, north escape. arc left open. 2 steps. The drum stays for the hit."}
