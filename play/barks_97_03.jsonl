@@ -587,3 +587,6 @@
 {"n":587,"kind":"place","name":"South stair east escape","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"South stair east escape. Bess keeps the radio coil for the hit. 3 steps, arc on the left lane, open."}
 {"n":588,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, east escape. arc left open. 4 steps. The radio coil stays for the hit."}
 {"n":589,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the radio coil at the pier. Nobody past the east escape. We hit in 5 steps. Arc on the left lane, open."}
+{"n":590,"kind":"place","name":"the pier east escape","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"the pier east escape. Matt keeps the radio coil for the hit. 6 steps, arc on the left lane, open."}
+{"n":591,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the pier, east escape. arc left open. 7 steps. The radio coil stays for the hit."}
+{"n":592,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the radio coil at the pier. Nobody past the east escape. We hit in 8 steps. Arc on the left lane, open."}
