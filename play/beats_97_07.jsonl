@@ -63,3 +63,6 @@
 {"n":63,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the awning at Mall court. Nobody past the south escape. We hit in 7 steps. Arc on the left lane, open."}
 {"n":64,"kind":"place","name":"Mall court south escape","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Mall court south escape. Ivo keeps the awning for the hit. 8 steps, arc on the left lane, open."}
 {"n":65,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mall court, south escape. arc left open. 2 steps. The awning stays for the hit."}
+{"n":66,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the awning at Mall court. Nobody past the south escape. We hit in 3 steps. Arc on the left lane, open."}
+{"n":67,"kind":"place","name":"Mall court south escape","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Mall court south escape. Bess keeps the awning for the hit. 4 steps, arc on the left lane, open."}
+{"n":68,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, south escape. arc left open. 5 steps. The awning stays for the hit."}
