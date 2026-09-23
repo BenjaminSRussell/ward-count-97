@@ -595,3 +595,6 @@
 {"n":595,"kind":"place","name":"Mast yard south escape","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Mast yard south escape. Bess keeps the radio coil for the hit. 7 steps, arc on the left lane, open."}
 {"n":596,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, south escape. arc left open. 8 steps. The radio coil stays for the hit."}
 {"n":597,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the radio coil at Last Light. Nobody past the south escape. We hit in 2 steps. Arc on the left lane, open."}
+{"n":598,"kind":"place","name":"Last Light south escape","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Last Light south escape. Matt keeps the radio coil for the hit. 3 steps, arc on the left lane, open."}
+{"n":599,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, south escape. arc left open. 4 steps. The radio coil stays for the hit."}
+{"n":600,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the radio coil at Last Light. Nobody past the south escape. We hit in 5 steps. Arc on the left lane, open."}
