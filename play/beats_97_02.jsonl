@@ -233,3 +233,6 @@
 {"n":233,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the crate at South stair. Nobody past the east escape. We hit in 7 steps. Arc on the left lane, open."}
 {"n":234,"kind":"place","name":"South stair east escape","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"South stair east escape. Matt keeps the crate for the hit. 8 steps, arc on the left lane, open."}
 {"n":235,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at South stair, east escape. arc left open. 2 steps. The crate stays for the hit."}
+{"n":236,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the crate at South stair. Nobody past the east escape. We hit in 3 steps. Arc on the left lane, open."}
+{"n":237,"kind":"place","name":"South stair east escape","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"South stair east escape. Nia keeps the crate for the hit. 4 steps, arc on the left lane, open."}
+{"n":238,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at South stair, east escape. arc left open. 5 steps. The crate stays for the hit."}
