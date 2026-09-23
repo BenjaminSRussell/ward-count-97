@@ -165,3 +165,6 @@
 {"n":165,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, south escape. arc left open. 5 steps. The barrel stays for the hit."}
 {"n":166,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the barrel at High line. Nobody past the south escape. We hit in 6 steps. Arc on the left lane, open."}
 {"n":167,"kind":"place","name":"High line south escape","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"High line south escape. Bess keeps the barrel for the hit. 7 steps, arc on the left lane, open."}
+{"n":168,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, south escape. arc left open. 8 steps. The barrel stays for the hit."}
+{"n":169,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the crate at Ward gate. Nobody past the south escape. We hit in 2 steps. Arc on the left lane, open."}
+{"n":170,"kind":"place","name":"Ward gate south escape","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Ward gate south escape. Matt keeps the crate for the hit. 3 steps, arc on the left lane, open."}
