@@ -878,3 +878,6 @@
 {"n":878,"kind":"place","name":"Last Light west escape","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Last Light west escape. Matt keeps the shutter for the hit. 3 steps, arc on the left lane, open."}
 {"n":879,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, west escape. arc left open. 4 steps. The shutter stays for the hit."}
 {"n":880,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the shutter at Last Light. Nobody past the west escape. We hit in 5 steps. Arc on the left lane, open."}
+{"n":881,"kind":"place","name":"Last Light west escape","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"Last Light west escape. Nia keeps the shutter for the hit. 6 steps, arc on the left lane, open."}
+{"n":882,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Last Light, west escape. arc left open. 7 steps. The shutter stays for the hit."}
+{"n":883,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the shutter at Last Light. Nobody past the west escape. We hit in 8 steps. Arc on the left lane, open."}
