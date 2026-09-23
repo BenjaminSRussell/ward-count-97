@@ -291,3 +291,6 @@
 {"n":291,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, west escape. arc left open. 4 steps. The lamp stays for the hit."}
 {"n":292,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the lamp at Ward gate. Nobody past the west escape. We hit in 5 steps. Arc on the left lane, open."}
 {"n":293,"kind":"place","name":"Ward gate west escape","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Ward gate west escape. Nia keeps the lamp for the hit. 6 steps, arc on the left lane, open."}
+{"n":294,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Ward gate, west escape. arc left open. 7 steps. The lamp stays for the hit."}
+{"n":295,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the lamp at Ward gate. Nobody past the west escape. We hit in 8 steps. Arc on the left lane, open."}
+{"n":296,"kind":"place","name":"Ward gate west escape","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Ward gate west escape. Ivo keeps the lamp for the hit. 2 steps, arc on the left lane, open."}
