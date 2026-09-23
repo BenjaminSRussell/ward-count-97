@@ -295,3 +295,6 @@
 {"n":295,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Switchyard, north escape. arc left open. 3 steps. The drum stays for the hit."}
 {"n":296,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the drum at Switchyard. Nobody past the north escape. We hit in 4 steps. Arc on the left lane, open."}
 {"n":297,"kind":"place","name":"Switchyard north escape","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Switchyard north escape. Nia keeps the drum for the hit. 5 steps, arc on the left lane, open."}
+{"n":298,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, north escape. arc left open. 6 steps. The drum stays for the hit."}
+{"n":299,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the drum at Switchyard. Nobody past the north escape. We hit in 7 steps. Arc on the left lane, open."}
+{"n":300,"kind":"place","name":"Switchyard north escape","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Switchyard north escape. Ivo keeps the drum for the hit. 8 steps, arc on the left lane, open."}
