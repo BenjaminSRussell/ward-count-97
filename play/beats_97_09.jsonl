@@ -415,3 +415,6 @@
 {"n":415,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the badge door at Mall court. Nobody past the west curb. We start in 7 steps. Weave on the left lane, open."}
 {"n":416,"kind":"place","name":"Mall court west curb","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Mall court west curb. Ivo keeps the badge door for the start. 8 steps, weave on the left lane, open."}
 {"n":417,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mall court, west curb. weave left open. 2 steps. The badge door stays for the start."}
+{"n":418,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the badge door at Mall court. Nobody past the west curb. We start in 3 steps. Weave on the left lane, open."}
+{"n":419,"kind":"place","name":"Mall court west curb","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Mall court west curb. Bess keeps the badge door for the start. 4 steps, weave on the left lane, open."}
+{"n":420,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, west curb. weave left open. 5 steps. The badge door stays for the start."}
