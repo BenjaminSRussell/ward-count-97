@@ -248,3 +248,6 @@
 {"n":248,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, west escape. arc left open. 2 steps. The drum stays for the hit."}
 {"n":249,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the drum at Clinic roof. Nobody past the west escape. We hit in 3 steps. Arc on the left lane, open."}
 {"n":250,"kind":"place","name":"Clinic roof west escape","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Clinic roof west escape. Matt keeps the drum for the hit. 4 steps, arc on the left lane, open."}
+{"n":251,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Clinic roof, west escape. arc left open. 5 steps. The drum stays for the hit."}
+{"n":252,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the drum at Clinic roof. Nobody past the west escape. We hit in 6 steps. Arc on the left lane, open."}
+{"n":253,"kind":"place","name":"Clinic roof west escape","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Clinic roof west escape. Nia keeps the drum for the hit. 7 steps, arc on the left lane, open."}
