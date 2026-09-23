@@ -696,3 +696,6 @@
 {"n":696,"kind":"place","name":"the Lot south escape","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"the Lot south escape. Ivo keeps the plywood for the hit. 5 steps, arc on the left lane, open."}
 {"n":697,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, south escape. arc left open. 6 steps. The plywood stays for the hit."}
 {"n":698,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the plywood at the Lot. Nobody past the south escape. We hit in 7 steps. Arc on the left lane, open."}
+{"n":699,"kind":"place","name":"the Lot south escape","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"the Lot south escape. Bess keeps the plywood for the hit. 8 steps, arc on the left lane, open."}
+{"n":700,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, south escape. arc left open. 2 steps. The plywood stays for the hit."}
+{"n":701,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the plywood at Stockyard fence. Nobody past the south escape. We hit in 3 steps. Arc on the left lane, open."}
