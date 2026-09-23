@@ -717,3 +717,6 @@
 {"n":717,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the plywood at Last Light. Nobody past the east escape. We hit in 2 steps. Arc on the left lane, open."}
 {"n":718,"kind":"place","name":"Last Light east escape","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Last Light east escape. Matt keeps the plywood for the hit. 3 steps, arc on the left lane, open."}
 {"n":719,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, east escape. arc left open. 4 steps. The plywood stays for the hit."}
+{"n":720,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the plywood at Last Light. Nobody past the east escape. We hit in 5 steps. Arc on the left lane, open."}
+{"n":721,"kind":"place","name":"Last Light east escape","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"Last Light east escape. Nia keeps the plywood for the hit. 6 steps, arc on the left lane, open."}
+{"n":722,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Last Light, east escape. arc left open. 7 steps. The plywood stays for the hit."}
