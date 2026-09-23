@@ -764,3 +764,6 @@
 {"n":764,"kind":"place","name":"Switchyard west escape","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Switchyard west escape. Ivo keeps the rope for the hit. 8 steps, arc on the left lane, open."}
 {"n":765,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, west escape. arc left open. 2 steps. The rope stays for the hit."}
 {"n":766,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the rope at Switchyard. Nobody past the west escape. We hit in 3 steps. Arc on the left lane, open."}
+{"n":767,"kind":"place","name":"Switchyard west escape","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Switchyard west escape. Bess keeps the rope for the hit. 4 steps, arc on the left lane, open."}
+{"n":768,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, west escape. arc left open. 5 steps. The rope stays for the hit."}
+{"n":769,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the rope at Drydock. Nobody past the west escape. We hit in 6 steps. Arc on the left lane, open."}
