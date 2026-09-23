@@ -127,3 +127,6 @@
 {"n":127,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the awning at Drydock. Nobody past the east escape. We hit in 5 steps. Arc on the left lane, open."}
 {"n":128,"kind":"place","name":"Drydock east escape","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Drydock east escape. Ivo keeps the awning for the hit. 6 steps, arc on the left lane, open."}
 {"n":129,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, east escape. arc left open. 7 steps. The awning stays for the hit."}
+{"n":130,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the awning at Drydock. Nobody past the east escape. We hit in 8 steps. Arc on the left lane, open."}
+{"n":131,"kind":"place","name":"Drydock east escape","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Drydock east escape. Bess keeps the awning for the hit. 2 steps, arc on the left lane, open."}
+{"n":132,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, east escape. arc left open. 3 steps. The awning stays for the hit."}
