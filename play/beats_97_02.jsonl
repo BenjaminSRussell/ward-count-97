@@ -8,3 +8,6 @@
 {"n":8,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the barrel at Stockyard fence. Nobody past the east escape. We hit in 6 steps. Arc on the left lane, open."}
 {"n":9,"kind":"place","name":"Stockyard fence east escape","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Stockyard fence east escape. Nia keeps the barrel for the hit. 7 steps, arc on the left lane, open."}
 {"n":10,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, east escape. arc left open. 8 steps. The barrel stays for the hit."}
+{"n":11,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the barrel at Stockyard fence. Nobody past the east escape. We hit in 2 steps. Arc on the left lane, open."}
+{"n":12,"kind":"place","name":"Stockyard fence east escape","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Stockyard fence east escape. Ivo keeps the barrel for the hit. 3 steps, arc on the left lane, open."}
+{"n":13,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, east escape. arc left open. 4 steps. The barrel stays for the hit."}
