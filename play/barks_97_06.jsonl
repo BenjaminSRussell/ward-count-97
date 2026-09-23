@@ -332,3 +332,6 @@
 {"n":332,"kind":"place","name":"High line south escape","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"High line south escape. Ivo keeps the crate for the hit. 4 steps, arc on the left lane, open."}
 {"n":333,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, south escape. arc left open. 5 steps. The crate stays for the hit."}
 {"n":334,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the crate at High line. Nobody past the south escape. We hit in 6 steps. Arc on the left lane, open."}
+{"n":335,"kind":"place","name":"High line south escape","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"High line south escape. Bess keeps the crate for the hit. 7 steps, arc on the left lane, open."}
+{"n":336,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, south escape. arc left open. 8 steps. The crate stays for the hit."}
+{"n":337,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the lamp at Ward gate. Nobody past the south escape. We hit in 2 steps. Arc on the left lane, open."}
