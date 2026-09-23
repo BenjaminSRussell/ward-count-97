@@ -550,3 +550,6 @@
 {"n":550,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mall court, north escape. arc left open. 6 steps. The radio coil stays for the hit."}
 {"n":551,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the radio coil at Mall court. Nobody past the north escape. We hit in 7 steps. Arc on the left lane, open."}
 {"n":552,"kind":"place","name":"Mall court north escape","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Mall court north escape. Ivo keeps the radio coil for the hit. 8 steps, arc on the left lane, open."}
+{"n":553,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mall court, north escape. arc left open. 2 steps. The radio coil stays for the hit."}
+{"n":554,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the radio coil at Mall court. Nobody past the north escape. We hit in 3 steps. Arc on the left lane, open."}
+{"n":555,"kind":"place","name":"Mall court north escape","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Mall court north escape. Bess keeps the radio coil for the hit. 4 steps, arc on the left lane, open."}
