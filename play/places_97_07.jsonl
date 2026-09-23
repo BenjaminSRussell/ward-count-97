@@ -200,3 +200,6 @@
 {"n":200,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, south escape. arc left open. 4 steps. The drum stays for the hit."}
 {"n":201,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the drum at the Lot. Nobody past the south escape. We hit in 5 steps. Arc on the left lane, open."}
 {"n":202,"kind":"place","name":"the Lot south escape","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"the Lot south escape. Matt keeps the drum for the hit. 6 steps, arc on the left lane, open."}
+{"n":203,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Lot, south escape. arc left open. 7 steps. The drum stays for the hit."}
+{"n":204,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the drum at the Lot. Nobody past the south escape. We hit in 8 steps. Arc on the left lane, open."}
+{"n":205,"kind":"place","name":"the Lot south escape","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"the Lot south escape. Nia keeps the drum for the hit. 2 steps, arc on the left lane, open."}
