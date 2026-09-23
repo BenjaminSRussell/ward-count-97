@@ -75,3 +75,6 @@
 {"n":75,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the awning at the pier. Nobody past the west escape. We hit in 4 steps. Arc on the left lane, open."}
 {"n":76,"kind":"place","name":"the pier west escape","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"the pier west escape. Ivo keeps the awning for the hit. 5 steps, arc on the left lane, open."}
 {"n":77,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, west escape. arc left open. 6 steps. The awning stays for the hit."}
+{"n":78,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the awning at the pier. Nobody past the west escape. We hit in 7 steps. Arc on the left lane, open."}
+{"n":79,"kind":"place","name":"the pier west escape","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"the pier west escape. Bess keeps the awning for the hit. 8 steps, arc on the left lane, open."}
+{"n":80,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, west escape. arc left open. 2 steps. The awning stays for the hit."}
