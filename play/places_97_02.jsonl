@@ -424,3 +424,6 @@
 {"n":424,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, east escape. arc left open. 2 steps. The lamp stays for the hit."}
 {"n":425,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the lamp at Clinic roof. Nobody past the east escape. We hit in 3 steps. Arc on the left lane, open."}
 {"n":426,"kind":"place","name":"Clinic roof east escape","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Clinic roof east escape. Matt keeps the lamp for the hit. 4 steps, arc on the left lane, open."}
+{"n":427,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Clinic roof, east escape. arc left open. 5 steps. The lamp stays for the hit."}
+{"n":428,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the lamp at Clinic roof. Nobody past the east escape. We hit in 6 steps. Arc on the left lane, open."}
+{"n":429,"kind":"place","name":"Clinic roof east escape","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Clinic roof east escape. Nia keeps the lamp for the hit. 7 steps, arc on the left lane, open."}
