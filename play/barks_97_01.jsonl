@@ -160,3 +160,6 @@
 {"n":160,"kind":"place","name":"the Lot west escape","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"the Lot west escape. Ivo keeps the drum for the hit. 5 steps, arc on the left lane, open."}
 {"n":161,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, west escape. arc left open. 6 steps. The drum stays for the hit."}
 {"n":162,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the drum at the Lot. Nobody past the west escape. We hit in 7 steps. Arc on the left lane, open."}
+{"n":163,"kind":"place","name":"the Lot west escape","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"the Lot west escape. Bess keeps the drum for the hit. 8 steps, arc on the left lane, open."}
+{"n":164,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, west escape. arc left open. 2 steps. The drum stays for the hit."}
+{"n":165,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the drum at Stockyard fence. Nobody past the west escape. We hit in 3 steps. Arc on the left lane, open."}
