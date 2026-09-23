@@ -141,3 +141,6 @@
 {"n":141,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the drum at Kessler alley. Nobody past the west escape. We hit in 7 steps. Arc on the left lane, open."}
 {"n":142,"kind":"place","name":"Kessler alley west escape","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Kessler alley west escape. Matt keeps the drum for the hit. 8 steps, arc on the left lane, open."}
 {"n":143,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Kessler alley, west escape. arc left open. 2 steps. The drum stays for the hit."}
+{"n":144,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the drum at Kessler alley. Nobody past the west escape. We hit in 3 steps. Arc on the left lane, open."}
+{"n":145,"kind":"place","name":"Kessler alley west escape","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Kessler alley west escape. Nia keeps the drum for the hit. 4 steps, arc on the left lane, open."}
+{"n":146,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, west escape. arc left open. 5 steps. The drum stays for the hit."}
