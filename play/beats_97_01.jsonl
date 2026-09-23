@@ -174,3 +174,6 @@
 {"n":174,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the drum at Stockyard fence. Nobody past the west escape. We hit in 5 steps. Arc on the left lane, open."}
 {"n":175,"kind":"place","name":"Stockyard fence west escape","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Stockyard fence west escape. Bess keeps the drum for the hit. 6 steps, arc on the left lane, open."}
 {"n":176,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Stockyard fence, west escape. arc left open. 7 steps. The drum stays for the hit."}
+{"n":177,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the drum at Mall court. Nobody past the west escape. We hit in 8 steps. Arc on the left lane, open."}
+{"n":178,"kind":"place","name":"Mall court west escape","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Mall court west escape. Matt keeps the drum for the hit. 2 steps, arc on the left lane, open."}
+{"n":179,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mall court, west escape. arc left open. 3 steps. The drum stays for the hit."}
