@@ -701,3 +701,6 @@
 {"n":701,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, north escape. arc left open. 4 steps. The rope stays for the hit."}
 {"n":702,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the rope at Stockyard fence. Nobody past the north escape. We hit in 5 steps. Arc on the left lane, open."}
 {"n":703,"kind":"place","name":"Stockyard fence north escape","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Stockyard fence north escape. Bess keeps the rope for the hit. 6 steps, arc on the left lane, open."}
+{"n":704,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Stockyard fence, north escape. arc left open. 7 steps. The rope stays for the hit."}
+{"n":705,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the rope at Mall court. Nobody past the north escape. We hit in 8 steps. Arc on the left lane, open."}
+{"n":706,"kind":"place","name":"Mall court north escape","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Mall court north escape. Matt keeps the rope for the hit. 2 steps, arc on the left lane, open."}
