@@ -532,3 +532,6 @@
 {"n":532,"kind":"place","name":"Kessler alley south escape","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Kessler alley south escape. Ivo keeps the radio coil for the hit. 7 steps, arc on the left lane, open."}
 {"n":533,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, south escape. arc left open. 8 steps. The radio coil stays for the hit."}
 {"n":534,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the radio coil at Kessler alley. Nobody past the south escape. We hit in 2 steps. Arc on the left lane, open."}
+{"n":535,"kind":"place","name":"Kessler alley south escape","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Kessler alley south escape. Bess keeps the radio coil for the hit. 3 steps, arc on the left lane, open."}
+{"n":536,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, south escape. arc left open. 4 steps. The radio coil stays for the hit."}
+{"n":537,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the radio coil at the Lot. Nobody past the south escape. We hit in 5 steps. Arc on the left lane, open."}
