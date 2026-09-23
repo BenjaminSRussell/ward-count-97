@@ -307,3 +307,6 @@
 {"n":307,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, north escape. arc left open. 8 steps. The drum stays for the hit."}
 {"n":308,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the drum at Drydock. Nobody past the north escape. We hit in 2 steps. Arc on the left lane, open."}
 {"n":309,"kind":"place","name":"Drydock north escape","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Drydock north escape. Nia keeps the drum for the hit. 3 steps, arc on the left lane, open."}
+{"n":310,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, north escape. arc left open. 4 steps. The drum stays for the hit."}
+{"n":311,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the drum at Drydock. Nobody past the north escape. We hit in 5 steps. Arc on the left lane, open."}
+{"n":312,"kind":"place","name":"Drydock north escape","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Drydock north escape. Ivo keeps the drum for the hit. 6 steps, arc on the left lane, open."}
