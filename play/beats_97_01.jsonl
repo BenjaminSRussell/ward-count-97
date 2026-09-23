@@ -282,3 +282,6 @@
 {"n":282,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the drum at Drydock. Nobody past the west escape. We hit in 8 steps. Arc on the left lane, open."}
 {"n":283,"kind":"place","name":"Drydock west escape","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Drydock west escape. Bess keeps the drum for the hit. 2 steps, arc on the left lane, open."}
 {"n":284,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, west escape. arc left open. 3 steps. The drum stays for the hit."}
+{"n":285,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the drum at High line. Nobody past the west escape. We hit in 4 steps. Arc on the left lane, open."}
+{"n":286,"kind":"place","name":"High line west escape","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"High line west escape. Matt keeps the drum for the hit. 5 steps, arc on the left lane, open."}
+{"n":287,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at High line, west escape. arc left open. 6 steps. The drum stays for the hit."}
