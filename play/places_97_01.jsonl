@@ -995,3 +995,6 @@
 {"n":995,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Lot, east escape. arc left open. 7 steps. The barrel stays for the hit."}
 {"n":996,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the barrel at the Lot. Nobody past the east escape. We hit in 8 steps. Arc on the left lane, open."}
 {"n":997,"kind":"place","name":"the Lot east escape","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"the Lot east escape. Nia keeps the barrel for the hit. 2 steps, arc on the left lane, open."}
+{"n":998,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Lot, east escape. arc left open. 3 steps. The barrel stays for the hit."}
+{"n":999,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the barrel at the Lot. Nobody past the east escape. We hit in 4 steps. Arc on the left lane, open."}
+{"n":1000,"kind":"place","name":"the Lot east escape","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"the Lot east escape. Ivo keeps the barrel for the hit. 5 steps, arc on the left lane, open."}
