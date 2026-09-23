@@ -18,3 +18,6 @@
 {"n":18,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the awning at Ward gate. Nobody past the south escape. We hit in 4 steps. Arc on the left lane, open."}
 {"n":19,"kind":"place","name":"Ward gate south escape","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Ward gate south escape. Bess keeps the awning for the hit. 5 steps, arc on the left lane, open."}
 {"n":20,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, south escape. arc left open. 6 steps. The awning stays for the hit."}
+{"n":21,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the awning at Kessler alley. Nobody past the south escape. We hit in 7 steps. Arc on the left lane, open."}
+{"n":22,"kind":"place","name":"Kessler alley south escape","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Kessler alley south escape. Matt keeps the awning for the hit. 8 steps, arc on the left lane, open."}
+{"n":23,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Kessler alley, south escape. arc left open. 2 steps. The awning stays for the hit."}
