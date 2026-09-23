@@ -233,3 +233,6 @@
 {"n":233,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mall court, south escape. arc left open. 2 steps. The drum stays for the hit."}
 {"n":234,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the drum at Mall court. Nobody past the south escape. We hit in 3 steps. Arc on the left lane, open."}
 {"n":235,"kind":"place","name":"Mall court south escape","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Mall court south escape. Bess keeps the drum for the hit. 4 steps, arc on the left lane, open."}
+{"n":236,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, south escape. arc left open. 5 steps. The drum stays for the hit."}
+{"n":237,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the drum at the Underpass. Nobody past the south escape. We hit in 6 steps. Arc on the left lane, open."}
+{"n":238,"kind":"place","name":"the Underpass south escape","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"the Underpass south escape. Matt keeps the drum for the hit. 7 steps, arc on the left lane, open."}
