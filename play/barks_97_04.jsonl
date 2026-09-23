@@ -154,3 +154,6 @@
 {"n":154,"kind":"place","name":"Ward gate north escape","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Ward gate north escape. Matt keeps the crate for the hit. 3 steps, arc on the left lane, open."}
 {"n":155,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, north escape. arc left open. 4 steps. The crate stays for the hit."}
 {"n":156,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the crate at Ward gate. Nobody past the north escape. We hit in 5 steps. Arc on the left lane, open."}
+{"n":157,"kind":"place","name":"Ward gate north escape","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Ward gate north escape. Nia keeps the crate for the hit. 6 steps, arc on the left lane, open."}
+{"n":158,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Ward gate, north escape. arc left open. 7 steps. The crate stays for the hit."}
+{"n":159,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the crate at Ward gate. Nobody past the north escape. We hit in 8 steps. Arc on the left lane, open."}
