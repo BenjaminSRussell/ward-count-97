@@ -371,3 +371,6 @@
 {"n":371,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the lamp at the Underpass. Nobody past the east escape. We hit in 5 steps. Arc on the left lane, open."}
 {"n":372,"kind":"place","name":"the Underpass east escape","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"the Underpass east escape. Ivo keeps the lamp for the hit. 6 steps, arc on the left lane, open."}
 {"n":373,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, east escape. arc left open. 7 steps. The lamp stays for the hit."}
+{"n":374,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the lamp at the Underpass. Nobody past the east escape. We hit in 8 steps. Arc on the left lane, open."}
+{"n":375,"kind":"place","name":"the Underpass east escape","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"the Underpass east escape. Bess keeps the lamp for the hit. 2 steps, arc on the left lane, open."}
+{"n":376,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Underpass, east escape. arc left open. 3 steps. The lamp stays for the hit."}
