@@ -901,3 +901,6 @@
 {"n":901,"kind":"place","name":"South stair east escape","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"South stair east escape. Nia keeps the hydrant for the hit. 4 steps, arc on the left lane, open."}
 {"n":902,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at South stair, east escape. arc left open. 5 steps. The hydrant stays for the hit."}
 {"n":903,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the hydrant at South stair. Nobody past the east escape. We hit in 6 steps. Arc on the left lane, open."}
+{"n":904,"kind":"place","name":"South stair east escape","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"South stair east escape. Ivo keeps the hydrant for the hit. 7 steps, arc on the left lane, open."}
+{"n":905,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, east escape. arc left open. 8 steps. The hydrant stays for the hit."}
+{"n":906,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the hydrant at South stair. Nobody past the east escape. We hit in 2 steps. Arc on the left lane, open."}
