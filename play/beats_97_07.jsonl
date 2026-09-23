@@ -168,3 +168,6 @@
 {"n":168,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the awning at High line. Nobody past the south escape. We hit in 7 steps. Arc on the left lane, open."}
 {"n":169,"kind":"place","name":"High line south escape","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"High line south escape. Nia keeps the awning for the hit. 8 steps, arc on the left lane, open."}
 {"n":170,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, south escape. arc left open. 2 steps. The awning stays for the hit."}
+{"n":171,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the awning at High line. Nobody past the south escape. We hit in 3 steps. Arc on the left lane, open."}
+{"n":172,"kind":"place","name":"High line south escape","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"High line south escape. Ivo keeps the awning for the hit. 4 steps, arc on the left lane, open."}
+{"n":173,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, south escape. arc left open. 5 steps. The awning stays for the hit."}
