@@ -575,3 +575,6 @@
 {"n":575,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the radio coil at Mast yard. Nobody past the north escape. We hit in 3 steps. Arc on the left lane, open."}
 {"n":576,"kind":"place","name":"Mast yard north escape","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Mast yard north escape. Ivo keeps the radio coil for the hit. 4 steps, arc on the left lane, open."}
 {"n":577,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, north escape. arc left open. 5 steps. The radio coil stays for the hit."}
+{"n":578,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the radio coil at Mast yard. Nobody past the north escape. We hit in 6 steps. Arc on the left lane, open."}
+{"n":579,"kind":"place","name":"Mast yard north escape","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Mast yard north escape. Bess keeps the radio coil for the hit. 7 steps, arc on the left lane, open."}
+{"n":580,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, north escape. arc left open. 8 steps. The radio coil stays for the hit."}
