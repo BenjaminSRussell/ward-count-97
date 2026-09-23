@@ -774,3 +774,6 @@
 {"n":774,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, west escape. arc left open. 4 steps. The rope stays for the hit."}
 {"n":775,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the rope at Drydock. Nobody past the west escape. We hit in 5 steps. Arc on the left lane, open."}
 {"n":776,"kind":"place","name":"Drydock west escape","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Drydock west escape. Ivo keeps the rope for the hit. 6 steps, arc on the left lane, open."}
+{"n":777,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, west escape. arc left open. 7 steps. The rope stays for the hit."}
+{"n":778,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the rope at Drydock. Nobody past the west escape. We hit in 8 steps. Arc on the left lane, open."}
+{"n":779,"kind":"place","name":"Drydock west escape","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Drydock west escape. Bess keeps the rope for the hit. 2 steps, arc on the left lane, open."}
