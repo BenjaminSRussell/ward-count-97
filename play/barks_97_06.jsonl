@@ -92,3 +92,6 @@
 {"n":92,"kind":"place","name":"Last Light south escape","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Last Light south escape. Ivo keeps the barrel for the hit. 2 steps, arc on the left lane, open."}
 {"n":93,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Last Light, south escape. arc left open. 3 steps. The barrel stays for the hit."}
 {"n":94,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the barrel at Last Light. Nobody past the south escape. We hit in 4 steps. Arc on the left lane, open."}
+{"n":95,"kind":"place","name":"Last Light south escape","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Last Light south escape. Bess keeps the barrel for the hit. 5 steps, arc on the left lane, open."}
+{"n":96,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Last Light, south escape. arc left open. 6 steps. The barrel stays for the hit."}
+{"n":97,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the barrel at South stair. Nobody past the south escape. We hit in 7 steps. Arc on the left lane, open."}
