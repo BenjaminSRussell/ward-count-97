@@ -474,3 +474,6 @@
 {"n":474,"kind":"place","name":"Ward gate east escape","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Ward gate east escape. Matt keeps the rebar for the hit. 3 steps, arc on the left lane, open."}
 {"n":475,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, east escape. arc left open. 4 steps. The rebar stays for the hit."}
 {"n":476,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the rebar at Ward gate. Nobody past the east escape. We hit in 5 steps. Arc on the left lane, open."}
+{"n":477,"kind":"place","name":"Ward gate east escape","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Ward gate east escape. Nia keeps the rebar for the hit. 6 steps, arc on the left lane, open."}
+{"n":478,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Ward gate, east escape. arc left open. 7 steps. The rebar stays for the hit."}
+{"n":479,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the rebar at Ward gate. Nobody past the east escape. We hit in 8 steps. Arc on the left lane, open."}
