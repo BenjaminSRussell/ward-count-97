@@ -18,3 +18,6 @@
 {"n":18,"kind":"place","name":"Mall court east escape","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Mall court east escape. Matt keeps the barrel for the hit. 2 steps, arc on the left lane, open."}
 {"n":19,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mall court, east escape. arc left open. 3 steps. The barrel stays for the hit."}
 {"n":20,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the barrel at Mall court. Nobody past the east escape. We hit in 4 steps. Arc on the left lane, open."}
+{"n":21,"kind":"place","name":"Mall court east escape","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"Mall court east escape. Nia keeps the barrel for the hit. 5 steps, arc on the left lane, open."}
+{"n":22,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mall court, east escape. arc left open. 6 steps. The barrel stays for the hit."}
+{"n":23,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the barrel at Mall court. Nobody past the east escape. We hit in 7 steps. Arc on the left lane, open."}
