@@ -406,3 +406,6 @@
 {"n":406,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the lamp at the pier. Nobody past the west escape. We hit in 7 steps. Arc on the left lane, open."}
 {"n":407,"kind":"place","name":"the pier west escape","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"the pier west escape. Bess keeps the lamp for the hit. 8 steps, arc on the left lane, open."}
 {"n":408,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, west escape. arc left open. 2 steps. The lamp stays for the hit."}
+{"n":409,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the lamp at Clinic roof. Nobody past the west escape. We hit in 3 steps. Arc on the left lane, open."}
+{"n":410,"kind":"place","name":"Clinic roof west escape","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Clinic roof west escape. Matt keeps the lamp for the hit. 4 steps, arc on the left lane, open."}
+{"n":411,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Clinic roof, west escape. arc left open. 5 steps. The lamp stays for the hit."}
