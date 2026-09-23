@@ -622,3 +622,6 @@
 {"n":622,"kind":"place","name":"High line west escape","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"High line west escape. Matt keeps the radio coil for the hit. 5 steps, arc on the left lane, open."}
 {"n":623,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at High line, west escape. arc left open. 6 steps. The radio coil stays for the hit."}
 {"n":624,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the radio coil at High line. Nobody past the west escape. We hit in 7 steps. Arc on the left lane, open."}
+{"n":625,"kind":"place","name":"High line west escape","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"High line west escape. Nia keeps the radio coil for the hit. 8 steps, arc on the left lane, open."}
+{"n":626,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, west escape. arc left open. 2 steps. The radio coil stays for the hit."}
+{"n":627,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the radio coil at High line. Nobody past the west escape. We hit in 3 steps. Arc on the left lane, open."}
