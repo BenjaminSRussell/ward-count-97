@@ -5,3 +5,6 @@
 {"n":5,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, north escape. arc left open. 8 steps. The barrel stays for the hit."}
 {"n":6,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the barrel at Kessler alley. Nobody past the north escape. We hit in 2 steps. Arc on the left lane, open."}
 {"n":7,"kind":"place","name":"Kessler alley north escape","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Kessler alley north escape. Bess keeps the barrel for the hit. 3 steps, arc on the left lane, open."}
+{"n":8,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, north escape. arc left open. 4 steps. The barrel stays for the hit."}
+{"n":9,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the barrel at the Lot. Nobody past the north escape. We hit in 5 steps. Arc on the left lane, open."}
+{"n":10,"kind":"place","name":"the Lot north escape","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"the Lot north escape. Matt keeps the barrel for the hit. 6 steps, arc on the left lane, open."}
