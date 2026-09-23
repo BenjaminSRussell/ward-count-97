@@ -261,3 +261,6 @@
 {"n":261,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, west escape. arc left open. 2 steps. The crate stays for the hit."}
 {"n":262,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the crate at Switchyard. Nobody past the west escape. We hit in 3 steps. Arc on the left lane, open."}
 {"n":263,"kind":"place","name":"Switchyard west escape","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Switchyard west escape. Bess keeps the crate for the hit. 4 steps, arc on the left lane, open."}
+{"n":264,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, west escape. arc left open. 5 steps. The crate stays for the hit."}
+{"n":265,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the crate at Drydock. Nobody past the west escape. We hit in 6 steps. Arc on the left lane, open."}
+{"n":266,"kind":"place","name":"Drydock west escape","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Drydock west escape. Matt keeps the crate for the hit. 7 steps, arc on the left lane, open."}
