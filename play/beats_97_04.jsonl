@@ -684,3 +684,6 @@
 {"n":684,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the rope at the Lot. Nobody past the north escape. We hit in 8 steps. Arc on the left lane, open."}
 {"n":685,"kind":"place","name":"the Lot north escape","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"the Lot north escape. Nia keeps the rope for the hit. 2 steps, arc on the left lane, open."}
 {"n":686,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Lot, north escape. arc left open. 3 steps. The rope stays for the hit."}
+{"n":687,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the rope at the Lot. Nobody past the north escape. We hit in 4 steps. Arc on the left lane, open."}
+{"n":688,"kind":"place","name":"the Lot north escape","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"the Lot north escape. Ivo keeps the rope for the hit. 5 steps, arc on the left lane, open."}
+{"n":689,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, north escape. arc left open. 6 steps. The rope stays for the hit."}
