@@ -865,3 +865,6 @@
 {"n":865,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the shutter at Mast yard. Nobody past the west escape. We hit in 4 steps. Arc on the left lane, open."}
 {"n":866,"kind":"place","name":"Mast yard west escape","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Mast yard west escape. Matt keeps the shutter for the hit. 5 steps, arc on the left lane, open."}
 {"n":867,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mast yard, west escape. arc left open. 6 steps. The shutter stays for the hit."}
+{"n":868,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the shutter at Mast yard. Nobody past the west escape. We hit in 7 steps. Arc on the left lane, open."}
+{"n":869,"kind":"place","name":"Mast yard west escape","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Mast yard west escape. Nia keeps the shutter for the hit. 8 steps, arc on the left lane, open."}
+{"n":870,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mast yard, west escape. arc left open. 2 steps. The shutter stays for the hit."}
