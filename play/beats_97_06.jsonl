@@ -289,3 +289,6 @@
 {"n":289,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the crate at Clinic roof. Nobody past the south escape. We hit in 3 steps. Arc on the left lane, open."}
 {"n":290,"kind":"place","name":"Clinic roof south escape","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Clinic roof south escape. Matt keeps the crate for the hit. 4 steps, arc on the left lane, open."}
 {"n":291,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Clinic roof, south escape. arc left open. 5 steps. The crate stays for the hit."}
+{"n":292,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the crate at Clinic roof. Nobody past the south escape. We hit in 6 steps. Arc on the left lane, open."}
+{"n":293,"kind":"place","name":"Clinic roof south escape","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Clinic roof south escape. Nia keeps the crate for the hit. 7 steps, arc on the left lane, open."}
+{"n":294,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Clinic roof, south escape. arc left open. 8 steps. The crate stays for the hit."}
