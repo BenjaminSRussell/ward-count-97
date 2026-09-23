@@ -450,3 +450,6 @@
 {"n":450,"kind":"place","name":"Clinic roof north escape","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Clinic roof north escape. Matt keeps the badge door for the hit. 4 steps, arc on the left lane, open."}
 {"n":451,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Clinic roof, north escape. arc left open. 5 steps. The badge door stays for the hit."}
 {"n":452,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the badge door at Clinic roof. Nobody past the north escape. We hit in 6 steps. Arc on the left lane, open."}
+{"n":453,"kind":"place","name":"Clinic roof north escape","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Clinic roof north escape. Nia keeps the badge door for the hit. 7 steps, arc on the left lane, open."}
+{"n":454,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Clinic roof, north escape. arc left open. 8 steps. The badge door stays for the hit."}
+{"n":455,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the badge door at Clinic roof. Nobody past the north escape. We hit in 2 steps. Arc on the left lane, open."}
