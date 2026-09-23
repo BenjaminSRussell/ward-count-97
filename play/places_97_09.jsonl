@@ -882,3 +882,6 @@
 {"n":882,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, east curb. weave left open. 5 steps. The hydrant stays for the start."}
 {"n":883,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the hydrant at Kessler alley. Nobody past the east curb. We start in 6 steps. Weave on the left lane, open."}
 {"n":884,"kind":"place","name":"Kessler alley east curb","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Kessler alley east curb. Ivo keeps the hydrant for the start. 7 steps, weave on the left lane, open."}
+{"n":885,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, east curb. weave left open. 8 steps. The hydrant stays for the start."}
+{"n":886,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the hydrant at Kessler alley. Nobody past the east curb. We start in 2 steps. Weave on the left lane, open."}
+{"n":887,"kind":"place","name":"Kessler alley east curb","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Kessler alley east curb. Bess keeps the hydrant for the start. 3 steps, weave on the left lane, open."}
