@@ -321,3 +321,6 @@
 {"n":321,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, west escape. arc left open. 6 steps. The lamp stays for the hit."}
 {"n":322,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the lamp at the Lot. Nobody past the west escape. We hit in 7 steps. Arc on the left lane, open."}
 {"n":323,"kind":"place","name":"the Lot west escape","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"the Lot west escape. Bess keeps the lamp for the hit. 8 steps, arc on the left lane, open."}
+{"n":324,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, west escape. arc left open. 2 steps. The lamp stays for the hit."}
+{"n":325,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the lamp at Stockyard fence. Nobody past the west escape. We hit in 3 steps. Arc on the left lane, open."}
+{"n":326,"kind":"place","name":"Stockyard fence west escape","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Stockyard fence west escape. Matt keeps the lamp for the hit. 4 steps, arc on the left lane, open."}
