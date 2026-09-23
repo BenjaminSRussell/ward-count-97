@@ -406,3 +406,6 @@
 {"n":406,"kind":"place","name":"Last Light north escape","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Last Light north escape. Matt keeps the lamp for the hit. 3 steps, arc on the left lane, open."}
 {"n":407,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, north escape. arc left open. 4 steps. The lamp stays for the hit."}
 {"n":408,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the lamp at Last Light. Nobody past the north escape. We hit in 5 steps. Arc on the left lane, open."}
+{"n":409,"kind":"place","name":"Last Light north escape","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Last Light north escape. Nia keeps the lamp for the hit. 6 steps, arc on the left lane, open."}
+{"n":410,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Last Light, north escape. arc left open. 7 steps. The lamp stays for the hit."}
+{"n":411,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the lamp at Last Light. Nobody past the north escape. We hit in 8 steps. Arc on the left lane, open."}
