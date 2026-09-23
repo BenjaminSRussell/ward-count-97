@@ -543,3 +543,6 @@
 {"n":543,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, west escape. arc left open. 4 steps. The rebar stays for the hit."}
 {"n":544,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the rebar at Last Light. Nobody past the west escape. We hit in 5 steps. Arc on the left lane, open."}
 {"n":545,"kind":"place","name":"Last Light west escape","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Last Light west escape. Nia keeps the rebar for the hit. 6 steps, arc on the left lane, open."}
+{"n":546,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Last Light, west escape. arc left open. 7 steps. The rebar stays for the hit."}
+{"n":547,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the rebar at Last Light. Nobody past the west escape. We hit in 8 steps. Arc on the left lane, open."}
+{"n":548,"kind":"place","name":"Last Light west escape","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Last Light west escape. Ivo keeps the rebar for the hit. 2 steps, arc on the left lane, open."}
