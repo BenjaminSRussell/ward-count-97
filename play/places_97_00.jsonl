@@ -390,3 +390,6 @@
 {"n":390,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at South stair, west escape. arc left open. 5 steps. The lamp stays for the hit."}
 {"n":391,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the lamp at South stair. Nobody past the west escape. We hit in 6 steps. Arc on the left lane, open."}
 {"n":392,"kind":"place","name":"South stair west escape","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"South stair west escape. Ivo keeps the lamp for the hit. 7 steps, arc on the left lane, open."}
+{"n":393,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, west escape. arc left open. 8 steps. The lamp stays for the hit."}
+{"n":394,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the lamp at South stair. Nobody past the west escape. We hit in 2 steps. Arc on the left lane, open."}
+{"n":395,"kind":"place","name":"South stair west escape","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"South stair west escape. Bess keeps the lamp for the hit. 3 steps, arc on the left lane, open."}
