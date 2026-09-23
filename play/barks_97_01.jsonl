@@ -232,3 +232,6 @@
 {"n":232,"kind":"place","name":"South stair west escape","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"South stair west escape. Ivo keeps the drum for the hit. 7 steps, arc on the left lane, open."}
 {"n":233,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, west escape. arc left open. 8 steps. The drum stays for the hit."}
 {"n":234,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the drum at South stair. Nobody past the west escape. We hit in 2 steps. Arc on the left lane, open."}
+{"n":235,"kind":"place","name":"South stair west escape","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"South stair west escape. Bess keeps the drum for the hit. 3 steps, arc on the left lane, open."}
+{"n":236,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, west escape. arc left open. 4 steps. The drum stays for the hit."}
+{"n":237,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the drum at the pier. Nobody past the west escape. We hit in 5 steps. Arc on the left lane, open."}
