@@ -777,3 +777,6 @@
 {"n":777,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the plywood at Drydock. Nobody past the east escape. We hit in 6 steps. Arc on the left lane, open."}
 {"n":778,"kind":"place","name":"Drydock east escape","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Drydock east escape. Matt keeps the plywood for the hit. 7 steps, arc on the left lane, open."}
 {"n":779,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, east escape. arc left open. 8 steps. The plywood stays for the hit."}
+{"n":780,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the plywood at Drydock. Nobody past the east escape. We hit in 2 steps. Arc on the left lane, open."}
+{"n":781,"kind":"place","name":"Drydock east escape","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"Drydock east escape. Nia keeps the plywood for the hit. 3 steps, arc on the left lane, open."}
+{"n":782,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, east escape. arc left open. 4 steps. The plywood stays for the hit."}
