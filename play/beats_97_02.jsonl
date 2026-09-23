@@ -89,3 +89,6 @@
 {"n":89,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the barrel at Clinic roof. Nobody past the east escape. We hit in 3 steps. Arc on the left lane, open."}
 {"n":90,"kind":"place","name":"Clinic roof east escape","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Clinic roof east escape. Matt keeps the barrel for the hit. 4 steps, arc on the left lane, open."}
 {"n":91,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Clinic roof, east escape. arc left open. 5 steps. The barrel stays for the hit."}
+{"n":92,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the barrel at Clinic roof. Nobody past the east escape. We hit in 6 steps. Arc on the left lane, open."}
+{"n":93,"kind":"place","name":"Clinic roof east escape","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Clinic roof east escape. Nia keeps the barrel for the hit. 7 steps, arc on the left lane, open."}
+{"n":94,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Clinic roof, east escape. arc left open. 8 steps. The barrel stays for the hit."}
