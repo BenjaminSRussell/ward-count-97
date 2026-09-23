@@ -528,3 +528,6 @@
 {"n":528,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Stockyard fence, east escape. arc left open. 7 steps. The radio coil stays for the hit."}
 {"n":529,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the radio coil at Mall court. Nobody past the east escape. We hit in 8 steps. Arc on the left lane, open."}
 {"n":530,"kind":"place","name":"Mall court east escape","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Mall court east escape. Matt keeps the radio coil for the hit. 2 steps, arc on the left lane, open."}
+{"n":531,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mall court, east escape. arc left open. 3 steps. The radio coil stays for the hit."}
+{"n":532,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the radio coil at Mall court. Nobody past the east escape. We hit in 4 steps. Arc on the left lane, open."}
+{"n":533,"kind":"place","name":"Mall court east escape","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Mall court east escape. Nia keeps the radio coil for the hit. 5 steps, arc on the left lane, open."}
