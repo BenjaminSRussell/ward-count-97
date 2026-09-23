@@ -425,3 +425,6 @@
 {"n":425,"kind":"place","name":"Switchyard west escape","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Switchyard west escape. Nia keeps the lamp for the hit. 5 steps, arc on the left lane, open."}
 {"n":426,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, west escape. arc left open. 6 steps. The lamp stays for the hit."}
 {"n":427,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the lamp at Switchyard. Nobody past the west escape. We hit in 7 steps. Arc on the left lane, open."}
+{"n":428,"kind":"place","name":"Switchyard west escape","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Switchyard west escape. Ivo keeps the lamp for the hit. 8 steps, arc on the left lane, open."}
+{"n":429,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, west escape. arc left open. 2 steps. The lamp stays for the hit."}
+{"n":430,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the lamp at Switchyard. Nobody past the west escape. We hit in 3 steps. Arc on the left lane, open."}
