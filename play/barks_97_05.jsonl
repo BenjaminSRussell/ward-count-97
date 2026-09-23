@@ -531,3 +531,6 @@
 {"n":531,"kind":"place","name":"the Lot north escape","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"the Lot north escape. Bess keeps the radio coil for the hit. 8 steps, arc on the left lane, open."}
 {"n":532,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, north escape. arc left open. 2 steps. The radio coil stays for the hit."}
 {"n":533,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the radio coil at Stockyard fence. Nobody past the north escape. We hit in 3 steps. Arc on the left lane, open."}
+{"n":534,"kind":"place","name":"Stockyard fence north escape","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Stockyard fence north escape. Matt keeps the radio coil for the hit. 4 steps, arc on the left lane, open."}
+{"n":535,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Stockyard fence, north escape. arc left open. 5 steps. The radio coil stays for the hit."}
+{"n":536,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the radio coil at Stockyard fence. Nobody past the north escape. We hit in 6 steps. Arc on the left lane, open."}
