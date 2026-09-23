@@ -337,3 +337,6 @@
 {"n":337,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, west curb. weave left open. 7 steps. The crate stays for the start."}
 {"n":338,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the crate at Drydock. Nobody past the west curb. We start in 8 steps. Weave on the left lane, open."}
 {"n":339,"kind":"place","name":"Drydock west curb","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Drydock west curb. Bess keeps the crate for the start. 2 steps, weave on the left lane, open."}
+{"n":340,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, west curb. weave left open. 3 steps. The crate stays for the start."}
+{"n":341,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the crate at High line. Nobody past the west curb. We start in 4 steps. Weave on the left lane, open."}
+{"n":342,"kind":"place","name":"High line west curb","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"High line west curb. Matt keeps the crate for the start. 5 steps, weave on the left lane, open."}
