@@ -856,3 +856,6 @@
 {"n":856,"kind":"place","name":"Mall court east escape","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Mall court east escape. Ivo keeps the hydrant for the hit. 8 steps, arc on the left lane, open."}
 {"n":857,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mall court, east escape. arc left open. 2 steps. The hydrant stays for the hit."}
 {"n":858,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the hydrant at Mall court. Nobody past the east escape. We hit in 3 steps. Arc on the left lane, open."}
+{"n":859,"kind":"place","name":"Mall court east escape","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Mall court east escape. Bess keeps the hydrant for the hit. 4 steps, arc on the left lane, open."}
+{"n":860,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, east escape. arc left open. 5 steps. The hydrant stays for the hit."}
+{"n":861,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the hydrant at the Underpass. Nobody past the east escape. We hit in 6 steps. Arc on the left lane, open."}
