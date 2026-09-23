@@ -190,3 +190,6 @@
 {"n":190,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mall court, east escape. arc left open. 6 steps. The crate stays for the hit."}
 {"n":191,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the crate at Mall court. Nobody past the east escape. We hit in 7 steps. Arc on the left lane, open."}
 {"n":192,"kind":"place","name":"Mall court east escape","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Mall court east escape. Ivo keeps the crate for the hit. 8 steps, arc on the left lane, open."}
+{"n":193,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mall court, east escape. arc left open. 2 steps. The crate stays for the hit."}
+{"n":194,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the crate at Mall court. Nobody past the east escape. We hit in 3 steps. Arc on the left lane, open."}
+{"n":195,"kind":"place","name":"Mall court east escape","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Mall court east escape. Bess keeps the crate for the hit. 4 steps, arc on the left lane, open."}
