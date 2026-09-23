@@ -818,3 +818,6 @@
 {"n":818,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, north escape. arc left open. 2 steps. The rope stays for the hit."}
 {"n":819,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the rope at High line. Nobody past the north escape. We hit in 3 steps. Arc on the left lane, open."}
 {"n":820,"kind":"place","name":"High line north escape","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"High line north escape. Ivo keeps the rope for the hit. 4 steps, arc on the left lane, open."}
+{"n":821,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, north escape. arc left open. 5 steps. The rope stays for the hit."}
+{"n":822,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the rope at High line. Nobody past the north escape. We hit in 6 steps. Arc on the left lane, open."}
+{"n":823,"kind":"place","name":"High line north escape","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"High line north escape. Bess keeps the rope for the hit. 7 steps, arc on the left lane, open."}
