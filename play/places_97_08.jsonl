@@ -328,3 +328,6 @@
 {"n":328,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, west curb. weave left open. 5 steps. The crate stays for the start."}
 {"n":329,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the crate at Drydock. Nobody past the west curb. We start in 6 steps. Weave on the left lane, open."}
 {"n":330,"kind":"place","name":"Drydock west curb","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Drydock west curb. Matt keeps the crate for the start. 7 steps, weave on the left lane, open."}
+{"n":331,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, west curb. weave left open. 8 steps. The crate stays for the start."}
+{"n":332,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the crate at Drydock. Nobody past the west curb. We start in 2 steps. Weave on the left lane, open."}
+{"n":333,"kind":"place","name":"Drydock west curb","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Drydock west curb. Nia keeps the crate for the start. 3 steps, weave on the left lane, open."}
