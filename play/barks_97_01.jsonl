@@ -43,3 +43,6 @@
 {"n":43,"kind":"place","name":"Mast yard west escape","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Mast yard west escape. Bess keeps the awning for the hit. 7 steps, arc on the left lane, open."}
 {"n":44,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, west escape. arc left open. 8 steps. The awning stays for the hit."}
 {"n":45,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the awning at Last Light. Nobody past the west escape. We hit in 2 steps. Arc on the left lane, open."}
+{"n":46,"kind":"place","name":"Last Light west escape","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Last Light west escape. Matt keeps the awning for the hit. 3 steps, arc on the left lane, open."}
+{"n":47,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, west escape. arc left open. 4 steps. The awning stays for the hit."}
+{"n":48,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the awning at Last Light. Nobody past the west escape. We hit in 5 steps. Arc on the left lane, open."}
