@@ -974,3 +974,6 @@
 {"n":974,"kind":"place","name":"High line north escape","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"High line north escape. Matt keeps the hydrant for the hit. 5 steps, arc on the left lane, open."}
 {"n":975,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at High line, north escape. arc left open. 6 steps. The hydrant stays for the hit."}
 {"n":976,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the hydrant at High line. Nobody past the north escape. We hit in 7 steps. Arc on the left lane, open."}
+{"n":977,"kind":"place","name":"High line north escape","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"High line north escape. Nia keeps the hydrant for the hit. 8 steps, arc on the left lane, open."}
+{"n":978,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, north escape. arc left open. 2 steps. The hydrant stays for the hit."}
+{"n":979,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the hydrant at High line. Nobody past the north escape. We hit in 3 steps. Arc on the left lane, open."}
