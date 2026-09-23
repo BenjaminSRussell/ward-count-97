@@ -98,3 +98,6 @@
 {"n":98,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, west escape. arc left open. 6 steps. The awning stays for the hit."}
 {"n":99,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the awning at Switchyard. Nobody past the west escape. We hit in 7 steps. Arc on the left lane, open."}
 {"n":100,"kind":"place","name":"Switchyard west escape","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Switchyard west escape. Ivo keeps the awning for the hit. 8 steps, arc on the left lane, open."}
+{"n":101,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, west escape. arc left open. 2 steps. The awning stays for the hit."}
+{"n":102,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the awning at Switchyard. Nobody past the west escape. We hit in 3 steps. Arc on the left lane, open."}
+{"n":103,"kind":"place","name":"Switchyard west escape","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Switchyard west escape. Bess keeps the awning for the hit. 4 steps, arc on the left lane, open."}
