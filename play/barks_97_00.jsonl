@@ -635,3 +635,6 @@
 {"n":635,"kind":"place","name":"Ward gate west escape","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Ward gate west escape. Bess keeps the rope for the hit. 5 steps, arc on the left lane, open."}
 {"n":636,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, west escape. arc left open. 6 steps. The rope stays for the hit."}
 {"n":637,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the rope at Kessler alley. Nobody past the west escape. We hit in 7 steps. Arc on the left lane, open."}
+{"n":638,"kind":"place","name":"Kessler alley west escape","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Kessler alley west escape. Matt keeps the rope for the hit. 8 steps, arc on the left lane, open."}
+{"n":639,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Kessler alley, west escape. arc left open. 2 steps. The rope stays for the hit."}
+{"n":640,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the rope at Kessler alley. Nobody past the west escape. We hit in 3 steps. Arc on the left lane, open."}
