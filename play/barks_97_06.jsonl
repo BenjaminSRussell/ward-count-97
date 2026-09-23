@@ -320,3 +320,6 @@
 {"n":320,"kind":"place","name":"Drydock south escape","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Drydock south escape. Ivo keeps the crate for the hit. 6 steps, arc on the left lane, open."}
 {"n":321,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, south escape. arc left open. 7 steps. The crate stays for the hit."}
 {"n":322,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the crate at Drydock. Nobody past the south escape. We hit in 8 steps. Arc on the left lane, open."}
+{"n":323,"kind":"place","name":"Drydock south escape","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Drydock south escape. Bess keeps the crate for the hit. 2 steps, arc on the left lane, open."}
+{"n":324,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, south escape. arc left open. 3 steps. The crate stays for the hit."}
+{"n":325,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the crate at High line. Nobody past the south escape. We hit in 4 steps. Arc on the left lane, open."}
