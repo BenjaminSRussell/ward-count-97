@@ -822,3 +822,6 @@
 {"n":822,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the hydrant at Kessler alley. Nobody past the east escape. We hit in 2 steps. Arc on the left lane, open."}
 {"n":823,"kind":"place","name":"Kessler alley east escape","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Kessler alley east escape. Bess keeps the hydrant for the hit. 3 steps, arc on the left lane, open."}
 {"n":824,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, east escape. arc left open. 4 steps. The hydrant stays for the hit."}
+{"n":825,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the hydrant at the Lot. Nobody past the east escape. We hit in 5 steps. Arc on the left lane, open."}
+{"n":826,"kind":"place","name":"the Lot east escape","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"the Lot east escape. Matt keeps the hydrant for the hit. 6 steps, arc on the left lane, open."}
+{"n":827,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Lot, east escape. arc left open. 7 steps. The hydrant stays for the hit."}
