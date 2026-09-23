@@ -987,3 +987,6 @@
 {"n":987,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the hydrant at Switchyard. Nobody past the west curb. We start in 7 steps. Weave on the left lane, open."}
 {"n":988,"kind":"place","name":"Switchyard west curb","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Switchyard west curb. Ivo keeps the hydrant for the start. 8 steps, weave on the left lane, open."}
 {"n":989,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, west curb. weave left open. 2 steps. The hydrant stays for the start."}
+{"n":990,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the hydrant at Switchyard. Nobody past the west curb. We start in 3 steps. Weave on the left lane, open."}
+{"n":991,"kind":"place","name":"Switchyard west curb","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Switchyard west curb. Bess keeps the hydrant for the start. 4 steps, weave on the left lane, open."}
+{"n":992,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, west curb. weave left open. 5 steps. The hydrant stays for the start."}
